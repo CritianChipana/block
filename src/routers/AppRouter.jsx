@@ -21,12 +21,12 @@ export const AppRouter = () => {
             <div>
 
                 <Switch>
-                    <Route exact path="/blockscrum" component={ BlockScreen } />
-                    <Route exact path="/blockscrum/inicio" component={ InicioScreen } />
-                    <Route exact path="/blockscrum/sprint1" component={ Sprint1 } />
-                    <Route exact path="/blockscrum/sprint2" component={ Sprint2 } />
-                    <Route exact path="/blockscrum/sprint3" component={ Sprint3 } />
-                    <Route exact path="/blockscrum/sprint4" component={ Sprint4 } />
+                    <Route exact path="/block" component={ BlockScreen } />
+                    <Route exact path="/block/inicio" component={ InicioScreen } />
+                    <Route exact path="/block/sprint1" component={ Sprint1 } />
+                    <Route exact path="/block/sprint2" component={ Sprint2 } />
+                    <Route exact path="/block/sprint3" component={ Sprint3 } />
+                    <Route exact path="/block/sprint4" component={ Sprint4 } />
                     <Redirect  to="/blockscrum"/>
                 </Switch>
             </div>
