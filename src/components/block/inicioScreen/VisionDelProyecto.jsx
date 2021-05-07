@@ -52,7 +52,7 @@ export const VisionDelProyecto = () => {
             <p className="parrafo-visionDeProyecto">Se optó por elegir a Jose Navarro Vicente como el Product Owner del Equipo Scrum, debido a que presenta un mayor conocimiento de la empresa, así como también conocimiento en el rubro de la salud, además de poseer las habilidades necesarias para poder desempeñarse correctamente en este rol. Él representará a la empresa NUTRI & FIT dentro del equipo y servirá de vínculo con el stakeholder.</p>
 
             <h3 className="subtile-visionDeProyecto">DECLARACION DE LA VISION DEL PROYECTO</h3>
-            <p className="parrafo-visionDeProyecto">Se optó por elegir a Jose Navarro Vicente como el Product Owner del Equipo Scrum, debido a que presenta un mayor conocimiento de la empresa, así como también conocimiento en el rubro de la salud, además de poseer las habilidades necesarias para poder desempeñarse correctamente en este rol. Él representará a la empresa NUTRI & FIT dentro del equipo y servirá de vínculo con el stakeholder.</p>
+            <p className="parrafo-visionDeProyecto">Desarrollar una aplicación web que brinde herramientas de ayuda personalizada, para que los pacientes de NUTRI & FIT logren mantener un estilo de vida saludable y balanceado.</p>
 
         </div>
     )
