@@ -22,7 +22,7 @@ export const NavBar = () => {
                         className="nav-link  nav-list-option link-transicion"
                         to="/block/inicio"
                     >
-                        VISION
+                        INICIO
                     </Link>
 
                     <Link
@@ -41,7 +41,7 @@ export const NavBar = () => {
 
                     <Link
                         className="nav-link nav-list-option link-transicion "
-                        to="/blockscrum/sprint3"
+                        to="/block/sprint3"
                     >
                         SPRINT III
                     </Link>

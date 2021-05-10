@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import './integranteCard.css'
+import './integranteCard.css';
 
 export const IntegranteCard = ({
     id,
@@ -10,9 +10,12 @@ export const IntegranteCard = ({
     foto
 }) => {
     return (
-        <div className="integrante-card-contenedor" >
+        <div className={ `integrante-card-contenedor ${id}`} >
                 {
                 <div className="card" >
+                    <div className="content-perfil" >
+                        <img src={foto} alt="perfil" />
+                    </div>
                     <h3 className="nombre">{nombre}</h3>
                     <p className="frace">{frace}</p>
                     <p className="rol">{rol}</p>

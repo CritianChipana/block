@@ -1,0 +1,14 @@
+.contenedor-scrum-team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+
+.title-principal{
+    font-size: 40px;
+}
+.teamScrum-desarrolladores{
+    background-color: black;
+}

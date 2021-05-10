@@ -1,0 +1,10 @@
+.content-todos{
+    background-color: #F0F0F0;
+    padding: 30px;
+}
+
+.todos{
+    display: grid;
+    grid-template-columns: repeat(3 , minmax( 100px, 1fr));
+    gap: 30px;
+}

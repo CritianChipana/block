@@ -1,0 +1,21 @@
+.contenedor-desarrollo-epicas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;  
+}
+
+.title-principal{
+    font-size: 40px;
+}
+.content-prototipo-sistem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #F0F0F0;
+    padding: 100px;
+}
+
+/* .epicas{
+    height: 300px;
+} */

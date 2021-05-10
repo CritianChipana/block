@@ -2,6 +2,8 @@ import React from 'react';
 import { integrantes } from '../../../data/integrantes';
 import { IntegranteCard } from './IntegranteCard';
 import './integranteList.css';
+
+
 export const IntegranteList = () => {
 
     const integran = integrantes; 

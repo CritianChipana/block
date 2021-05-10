@@ -1,0 +1,31 @@
+
+.content-carta{
+    background-image: linear-gradient( #1F313B 35%, white 0%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow:  20px 20px 60px #a6a6a6,
+                -20px -20px 60px #a6a6a6;
+    margin: 40px;
+}
+
+
+.content-img-carta{
+    margin: 30px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+
+.content-descrition-carta{
+    padding: 20px;
+
+}

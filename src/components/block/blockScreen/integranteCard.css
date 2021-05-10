@@ -3,7 +3,7 @@
     color: #000000;
     border-radius: 10px;
     padding: 15px;
-    padding-top: 100px;
+    padding-top: 35px;
     padding-bottom: 40px;
 
 }
@@ -31,4 +31,24 @@
     font-style: italic;
     opacity: 0.7;
 
+}
+
+.content-perfil{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100%;
+
+}
+
+.Ramos {
+
+    grid-column: 2 / 3
+}
+
+.Ramos .card .content-perfil{
+    rotate: 270deg;
+    width: 200px;
+    margin-left: 45px;
 }

@@ -5,12 +5,17 @@ import {
     Route,
     Redirect,
 } from "react-router-dom";
-import { BlockScreen } from '../components/block/BlockScreen';
-import { InicioScreen } from '../components/block/InicioScreen';
+import { BlockScreen } from '../components/block/blockScreen/BlockScreen';
+import { DesarrolloEpicas } from '../components/block/inicioScreen/DesarrolloEpicas';
+import { IdentificacionEquipoScrum } from '../components/block/inicioScreen/IdentificacionEquipoScrum';
+import { IdentificarScrumMaster } from '../components/block/inicioScreen/IdentificarScrumMaster';
+import { InicioScreen } from '../components/block/inicioScreen/InicioScreen';
+import { VisionDelProyecto } from '../components/block/inicioScreen/VisionDelProyecto';
 import { Sprint1 } from '../components/block/Sprint1';
 import { Sprint2 } from '../components/block/Sprint2';
 import { Sprint3 } from '../components/block/Sprint3';
 import { Sprint4 } from '../components/block/Sprint4';
+import { Footer } from '../components/footer/Footer';
 import { NavBar } from './../components/navBar/NavBar';
 
 
@@ -27,9 +32,19 @@ export const AppRouter = () => {
                     <Route exact path="/block/sprint2" component={ Sprint2 } />
                     <Route exact path="/block/sprint3" component={ Sprint3 } />
                     <Route exact path="/block/sprint4" component={ Sprint4 } />
-                    <Redirect  to="/blockscrum"/>
+
+
+                    <Route exact path="/block/vision" component={ VisionDelProyecto } />
+                    <Route exact path="/block/scrummaster" component={ IdentificarScrumMaster } />
+                    <Route exact path="/block/equiposcrum" component={ IdentificacionEquipoScrum } />
+                    <Route exact path="/block/epicas" component={ DesarrolloEpicas } />
+
+
+
+                    <Redirect  to="/block"/>
                 </Switch>
             </div>
+            <Footer/>
         </Router>
     )
 }
