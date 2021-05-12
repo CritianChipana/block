@@ -35,7 +35,8 @@ export const IdentificacionEquipoScrum = () => {
 
 
             <h3>Recomendaciones del Scrum Guidance Body</h3>
-            <p>FALTA maria </p>
+            <Carta url={"https://i.pinimg.com/564x/35/20/c8/3520c8736cd3dcbc32d7f248cef8b490.jpg"} nombre={"“Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM”"} descripcion={"Nuestro Scrum Guidance Body es el libro “Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM”. El Scrum Guidance Body menciona que los miembros ideales del Equipo de Desarrollo deben tener los siguientes criterios para su selección: Independientes, responsables, colaborativos, un equipo capaz de fomentar un ambiente de reflexión independiente y de tomar decisiones, esto con el fin de extraer los mayores beneficios de la estructura."}  especial={"libro"} />
+
 
             <h2>HERRAMIENTAS</h2>
             <h3>Seleccion del equipo Scrum</h3>
@@ -45,11 +46,16 @@ export const IdentificacionEquipoScrum = () => {
             <img src="https://i.pinimg.com/564x/c8/30/62/c83062b2330462cabbb886b3e78e28d9.jpg" alt=" yoo " />
 
             <h2>SALIDAS</h2>
-            <h3>Equipo Scrum Identificado</h3>
+            <h3>Equipo de Desarrollo</h3>
             < Bblopers/>
 
             <h3>Plan de colaboracion</h3>
-            <h5>TABLERO KANBAN:</h5>
+            <h5>1.	Herramientas</h5>    
+            <img src="https://i.pinimg.com/originals/fd/c7/1a/fdc71a18183a81cc3ba098025cd93436.jpg" alt=" red" />
+
+
+            <h5>2.   Técnicas</h5>
+            <h5>Tablero Kanban</h5>
             <p>El tablero Kanban es la herramienta para mapear y visualizar su flujo de trabajo.<br/>											
                 Cada columna visualiza una fase de su proceso y las filas representan diferentes tipos de actividades específicas (diseño, errores, deuda técnica, etc.).				
                 Al mismo tiempo, cada tarea que entra en su flujo de trabajo aparece en el tablero como una tarjeta Kanban. El punto de entrada de cada tarjeta es la columna 
@@ -57,14 +63,13 @@ export const IdentificacionEquipoScrum = () => {
                 A) Por hacer<br/>													
                 B) En proceso<br/>													
                 C) Hecho<br/>
-
-                <h6>FUNCIONAMIENTO PARA NUESTRO PROYECTO EN TRABAJO DE EQUIPO</h6>
-                <p>1) Ayuda en el enfoque personal para la ejecucion del trabajo</p>
-                <p>2) Fuente de Informacion</p>
-                <p>3) Desbloqueos en el proceso del proyecto</p>
-                <p>4) Tomar buenas Metricas clave para la culminacion deseable del proyecto</p>
-
             </p>    
+            <img src="https://i.pinimg.com/564x/0d/ce/4e/0dce4eaf2cc3cfeeadaa3ea38f813278.jpg" alt="red" />
+            <p>as</p>
+
+
+            <h5>3.	Acuerdos de la Reunion</h5>    
+            <img src="https://i.pinimg.com/564x/58/6e/37/586e377a38aca223302610f15440525d.jpg" alt="red" /><p></p>
 
             <BotonAtras direccion={ "inicio" } />
 

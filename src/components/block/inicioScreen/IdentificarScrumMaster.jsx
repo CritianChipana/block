@@ -16,7 +16,7 @@ export const IdentificarScrumMaster = () => {
             <p>Desarrollar una aplicación web que brinde herramientas de ayuda personalizada, para que los pacientes de NUTRI & FIT logren mantener un estilo de vida saludable y balanceado.</p>
 
             <h3>Requerimientos de las personas</h3>
-            <p>Falta Alvaro</p>
+            <img src="https://i.pinimg.com/564x/50/79/e3/5079e33cd3937390877074c806689432.jpg" alt="alvaro" />
 
             <h3>Disponibilidad y compromiso de las personas</h3>
             <img src="https://i.pinimg.com/originals/26/3d/6d/263d6d9d02695c6d4323ebb675c343e8.jpg" alt="DISPONIBILIDAD  jean" />
@@ -25,11 +25,12 @@ export const IdentificarScrumMaster = () => {
             <img src="https://i.pinimg.com/originals/e4/cf/ad/e4cfadba8d34f4924c59f7d0eb29ae65.jpg" alt="Matriz de destresas requeridas jose" />
 
             <h3>Recomendaciones del Scrum Guidance Body</h3>
-            <p>falta Maria</p>
+            <Carta url={"https://i.pinimg.com/564x/35/20/c8/3520c8736cd3dcbc32d7f248cef8b490.jpg"} nombre={"“Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM”"} descripcion={"Nuestro Scrum Guidance Body es el libro “Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM” el cual como primer paso nos recomienda consultar la disponibilidad de tiempo de los miembros del equipo mediante un calendario, luego documentar los roles, responsabilidades y criterios que tiene el Scrum Master para iniciar la selección."} especial={"libro"} />
+
 
             <h2>HERRAMIENTAS</h2>
             <h3>Criterios de seleccion</h3>
-            <p>falta alvaro</p>
+            <img src="https://i.pinimg.com/564x/b5/0c/8b/b50c8bddf9d9eb8df5f5630e04238c15.jpg" alt="alvaro" />
 
             <h3>Costos de Recursos</h3>
             <img className="costos-de-recursos" src="https://i.pinimg.com/564x/a5/08/5e/a5085ef307fbdb28bc777ba9f2097ec2.jpg" alt=" costos de recursos sato" />

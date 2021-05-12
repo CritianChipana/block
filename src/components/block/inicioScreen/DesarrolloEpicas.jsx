@@ -21,13 +21,20 @@ export const DesarrolloEpicas = () => {
             
 
             <h3>Leyes y Regulaciones</h3>
-            <p>FALTA Maria</p>
+            <p>En este punto, ya que nosotros estamos haciendo uso de datos personales de nuestros pacientes, es necesario mencionar la Ley de Protección de Datos Personales Artículo 14. Limitaciones al consentimiento para el tratamiento de datos personales </p>
+            <div className="desplasar-text">
+                <p> 
+                    “No se requiere el consentimiento del titular de datos personales, para los efectos de su tratamiento, en los siguientes casos: […]<br/><br/>
+                    […]6. Cuando se trate de datos personales relativos a la salud y sea necesario, en circunstancia de riesgo, para la prevención, diagnóstico y tratamiento médico o quirúrgico del titular, siempre que dicho tratamiento sea realizado en establecimientos de salud o por profesionales en ciencias de la salud, observando el secreto profesional; o cuando medien razones de interés público previstas por ley o cuando deban tratarse por razones de salud pública, ambas razones deben ser calificadas como tales por el Ministerio de Salud; o para la realización de estudios epidemiológicos o análogos, en tanto se apliquen procedimientos de disociación adecuados.”
+                </p>
+
+            </div>
 
             <h3>Informacion de proyectos previos</h3>
-            <p>FALTA jean</p>
+            <p>Nuestro proyecto es nuevo para todos los que conforman el Equipo.</p>
 
             <h3>Recomendaciones del Scrum Guidance Body </h3>
-            <p>FALTA Maria</p>
+            <Carta url={"https://i.pinimg.com/564x/35/20/c8/3520c8736cd3dcbc32d7f248cef8b490.jpg"} nombre={"“Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM”"} descripcion={"Nuestro Scrum Guidance Body es el libro “Una guía para el conocimiento CUERPO DE CONOCIMIENTO DE SCRUM”. El Scrum Guidance Body en esta sección nos indicó que el Product Owner mantenga reunión con el Stakeholder con la finalidad de poder recolectar épicas, a la misma vez, aconsejar que el Product Owner pueda aplicar un cuestionario para esta reunión. Finalmente organizarlos, y crear Prototipos."} especial={"libro"} />
 
             <h2>HERRAMIENTAS</h2>
             <h3>Reuniones del grupo de usuarios</h3>
@@ -59,13 +66,12 @@ export const DesarrolloEpicas = () => {
 
             </div>
 
-                <h3>Experiencia del Scrum Guidance Body</h3>
-                <p>FALTA no tiene nombre</p>
+                {/* <h3>Experiencia del Scrum Guidance Body</h3>
+                <p>FALTA no tiene nombre</p> */}
 
             <h2>SALIDAS</h2>
             <h3>Epicas</h3>
-            <img className="epicas" src="https://i.pinimg.com/564x/fa/b1/74/fab174c911be0a29b5cf6ab82b73d8aa.jpg" alt="jose" />
-
+                <img src="https://i.pinimg.com/originals/fa/b1/74/fab174c911be0a29b5cf6ab82b73d8aa.jpg" alt="as" />
             <h3>Prototipo</h3>
             <p>1.- Romel tiene 20 años de edad y vive en Villa el Salvador. Actualmente cursa una carrera universitaria y le apasionan los videojuegos. Además, cuenta con una pequeña tienda de abarrotes, la cual administra con sus padres. Le gusta mantener una alimentación ordenada, por lo que le gustaría un sitio que le facilite esto. Se estresa cuando una web no le carga bien y cuando esta presenta colores fosforescentes.</p>
             <p>2.- Agustín tiene 43 años de edad y reside en Villa Maria del Triunfo. Actualmente brinda servicios de seguridad a un condominio de La Molina. Le gustan mucho los dulces, pero busca cómo poder controlarse. No tiene muchos conocimiento tecnológicos, por lo que siempre esperar encontrar webs que sean intuitivas. Odia ver páginas con tantas opciones, porque siente que hace todo el proceso engorroso.</p>
@@ -73,6 +79,7 @@ export const DesarrolloEpicas = () => {
 
             <h3>Prototipo de sistema</h3>
             <div className="content-prototipo-sistem">
+                <img src="https://i.pinimg.com/originals/b9/aa/2f/b9aa2fa28d5ec1273aef78400c6fe4c9.jpg" alt="login" />
                 <img src="https://i.pinimg.com/564x/15/d4/f0/15d4f075bc855f47d552051d347e40a0.jpg" alt="proto4" />
                 <img src="https://i.pinimg.com/564x/f4/18/ae/f418ae250c68b399fda0a3eb00fc7e0f.jpg" alt="prototipo2" />
             </div>

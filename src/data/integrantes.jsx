@@ -1,7 +1,7 @@
 export const integrantes = [
     {
         "id":"Ayala",
-        "nombre":"Ayala Pfutiri, Maria",
+        "nombre":"Ayala Pfuturi, Maria",
         "frace":"“No sé donde estarás cachimbo o si ya eres mayor de edad pero te encontraré, tu no tristofer”",
         "rol":"Scrum Master",
         "foto":"https://i.pinimg.com/564x/b6/b6/e3/b6b6e30ac8da84228ce4289fb1bef01c.jpg"

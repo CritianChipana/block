@@ -16,6 +16,11 @@
     padding: 100px;
 }
 
-/* .epicas{
+.desplasar-text{
+    padding-left: 60px;
+    font-style: italic;
+}
+
+.epicas{
     height: 300px;
-} */
+}
