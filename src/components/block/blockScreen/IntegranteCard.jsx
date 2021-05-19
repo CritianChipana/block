@@ -14,7 +14,7 @@ export const IntegranteCard = ({
                 {
                 <div className="card" >
                     <div className="content-perfil" >
-                        <img src={foto} alt="perfil" />
+                        <img className="perfil-card" src={foto} alt="perfil" />
                     </div>
                     <h3 className="nombre">{nombre}</h3>
                     <p className="frace">{frace}</p>

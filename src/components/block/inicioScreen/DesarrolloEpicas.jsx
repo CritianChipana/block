@@ -1,7 +1,13 @@
 import React from 'react';
 import { BotonAtras } from '../../botonAtras/BotonAtras';
 import { Carta } from '../../carta/Carta';
+import { Silder } from '../../slider/Silder';
+import { SliderCard } from '../../sliderCard/SliderCard';
 import { Todos } from '../blockScreen/Todos';
+// import { integrantes } from '../../../data/integrantes';
+import { prototipos } from './../../../data/prototipos';
+
+
 import "./desarrolloEpicas.css";
 
 export const DesarrolloEpicas = () => {
@@ -14,8 +20,8 @@ export const DesarrolloEpicas = () => {
             <Todos/>
 
             <h3>Declaracion de la vision del proyecto</h3>
-            Desarrollar una aplicación web que brinde herramientas de ayuda personalizada, para que los pacientes de NUTRI & FIT logren mantener un estilo de vida saludable y balanceado.
-
+            <p>Desarrollar una aplicación web que brinde herramientas de ayuda personalizada, para que los pacientes de NUTRI & FIT logren mantener un estilo de vida saludable y balanceado.</p>
+            
             <h3>Stakeholder</h3>
             <Carta url={"https://i.pinimg.com/564x/3c/9b/d3/3c9bd38f6241963c91f18858b1f39fb8.jpg"} nombre={"ZEBALLOS CACERES PIERO"} descripcion={"Debido a que es la persona interesada en la realización del proyecto. ZEBALLOS CACERES PIERO será nuestro STAKEHOLDER. Él nos hará llegar los requerimientos de la empresa a través de nuestra Product Owner."} />
             
@@ -71,18 +77,14 @@ export const DesarrolloEpicas = () => {
 
             <h2>SALIDAS</h2>
             <h3>Epicas</h3>
-                <img src="https://i.pinimg.com/originals/fa/b1/74/fab174c911be0a29b5cf6ab82b73d8aa.jpg" alt="as" />
+                <img src="https://i.pinimg.com/originals/29/9e/ce/299ecef06166fa23e059a4a3a1c7ebed.jpg" alt="as" />
             <h3>Prototipo</h3>
             <p>1.- Romel tiene 20 años de edad y vive en Villa el Salvador. Actualmente cursa una carrera universitaria y le apasionan los videojuegos. Además, cuenta con una pequeña tienda de abarrotes, la cual administra con sus padres. Le gusta mantener una alimentación ordenada, por lo que le gustaría un sitio que le facilite esto. Se estresa cuando una web no le carga bien y cuando esta presenta colores fosforescentes.</p>
             <p>2.- Agustín tiene 43 años de edad y reside en Villa Maria del Triunfo. Actualmente brinda servicios de seguridad a un condominio de La Molina. Le gustan mucho los dulces, pero busca cómo poder controlarse. No tiene muchos conocimiento tecnológicos, por lo que siempre esperar encontrar webs que sean intuitivas. Odia ver páginas con tantas opciones, porque siente que hace todo el proceso engorroso.</p>
             <p>3.- Rafaela tiene 53 años de edad y vive en Chorrillos. Actualmente es ama de casa. Tiene problemas de obesidad, el cual busca contrarrestar con remedios o recetas encontradas por internet. Está muy relacionada con la tecnología y es fanática del material design de los sitios que visita. Le encanta que una aplicación web tenga imágenes coloridas, pero le disgusta tener que dar tantos clicks para llegar a lo que busca.</p>
 
             <h3>Prototipo de sistema</h3>
-            <div className="content-prototipo-sistem">
-                <img src="https://i.pinimg.com/originals/b9/aa/2f/b9aa2fa28d5ec1273aef78400c6fe4c9.jpg" alt="login" />
-                <img src="https://i.pinimg.com/564x/15/d4/f0/15d4f075bc855f47d552051d347e40a0.jpg" alt="proto4" />
-                <img src="https://i.pinimg.com/564x/f4/18/ae/f418ae250c68b399fda0a3eb00fc7e0f.jpg" alt="prototipo2" />
-            </div>
+            <Silder  elemtos={prototipos}/>
 
             <BotonAtras direccion={"inicio"} /> 
 
