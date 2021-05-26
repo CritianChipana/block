@@ -24,7 +24,7 @@ export const SliderCard = ( { elemtos } ) => {
 
     const integran = integrantes; 
    
-    const inte = elemtos;
+
 
     return (
         <>

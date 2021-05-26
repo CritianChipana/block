@@ -16,7 +16,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">VISION DEL PROYECTO</h3>
                 <i className="fab fa-chromecast "></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/vision"
@@ -28,7 +28,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">IDENTIFICAR AL SCRUM MASTER Y STAKEHOLDER</h3>
                 <i className="fas fa-user"></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/scrummaster"
@@ -40,7 +40,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">IDENTIFICAR EQUIPO SCRUM</h3>
                 <i className="fas fa-users"></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/equiposcrum"
@@ -53,7 +53,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">DESARROLLAR EPICAS</h3>
                 <i className="far fa-sticky-note"></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/epicas"
@@ -66,7 +66,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">CREAR EL BACKLOG PRIORIZADO DEL PRODUCTO</h3>
                 <i className="fas fa-th"></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/backlog"
@@ -78,7 +78,7 @@ export const InicioScreen = () => {
             <div className="option-item">
                 <h3 className="title-inicioscreen2">REALIZAR LA PLANIFICACION DEL LANZAMIENTO</h3>
                 <i className="fas fa-chalkboard-teacher"></i>
-                <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p>
+                {/* <p className="inicioscreen-parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos adipisci vel exercitationem explicabo architecto id?</p> */}
                 <Link
                         className="link-inicio efecto-link-inicio algo-link-inicio"
                         to="/block/planificacion"

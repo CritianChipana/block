@@ -13,10 +13,17 @@ import { IdentificarScrumMaster } from '../components/block/inicioScreen/Identif
 import { InicioScreen } from '../components/block/inicioScreen/InicioScreen';
 import { PlanificacionDelLanzamiento } from '../components/block/inicioScreen/PlanificacionDelLanzamiento';
 import { VisionDelProyecto } from '../components/block/inicioScreen/VisionDelProyecto';
-import { Sprint1 } from '../components/block/Sprint1';
-import { Sprint2 } from '../components/block/Sprint2';
-import { Sprint3 } from '../components/block/Sprint3';
-import { Sprint4 } from '../components/block/Sprint4';
+import { ComprometerHistoriaUsuario } from '../components/block/sprint1/planificacionEstimacion/ComprometerHistoriaUsuario';
+import { CrearHistoriaUsuario } from '../components/block/sprint1/planificacionEstimacion/CrearHistoriaUsuario';
+import { CrearSprintBackLog } from '../components/block/sprint1/planificacionEstimacion/CrearSprintBackLog';
+import { EstimarHistoriaUsuario } from '../components/block/sprint1/planificacionEstimacion/EstimarHistoriaUsuario';
+import { EstimarTarea } from '../components/block/sprint1/planificacionEstimacion/EstimarTarea';
+import { IdentificarTareas } from '../components/block/sprint1/planificacionEstimacion/IdentificarTareas';
+import { PlanificacionEstimacion } from '../components/block/sprint1/planificacionEstimacion/PlanificacionEstimacion';
+import { Sprint1 } from '../components/block/sprint1/Sprint1';
+import { Sprint2 } from '../components/block/sprint2/Sprint2';
+import { Sprint3 } from '../components/block/sprint3/Sprint3';
+import { Sprint4 } from '../components/block/sprint4/Sprint4';
 import { Footer } from '../components/footer/Footer';
 import { NavBar } from './../components/navBar/NavBar';
 
@@ -41,6 +48,14 @@ export const AppRouter = () => {
                     <Route exact path="/block/epicas" component={ DesarrolloEpicas } />
                     <Route exact path="/block/backlog" component={ CrearBacklogPriorizado } />
                     <Route exact path="/block/planificacion" component={ PlanificacionDelLanzamiento } />
+
+                    <Route exact path="/block/planificacionestimacion" component={ PlanificacionEstimacion } />
+                    <Route exact path="/block/crearhistoria" component={ CrearHistoriaUsuario } />
+                    <Route exact path="/block/estimarhistorias" component={ EstimarHistoriaUsuario } />
+                    <Route exact path="/block/comprometerhistorias" component={ ComprometerHistoriaUsuario } />
+                    <Route exact path="/block/identificartareas" component={ IdentificarTareas } />
+                    <Route exact path="/block/estimartareas" component={ EstimarTarea } />
+                    <Route exact path="/block/crearsprintbacklog" component={ CrearSprintBackLog } />
 
                     <Redirect  to="/block"/>
                 </Switch>

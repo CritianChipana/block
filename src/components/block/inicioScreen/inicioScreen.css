@@ -18,7 +18,7 @@
     border-radius: 59px;
     background: #ffffff;
     box-shadow:  27px 27px 54px #a3a3a3;
-    height: 350px;
+    height: 300px;
 }
 
 
@@ -45,6 +45,7 @@
     border-radius: 15px;
     width: 70%;
     text-align: center;
+    margin-top: 20px;
 }
 
 .link-inicio:hover{
