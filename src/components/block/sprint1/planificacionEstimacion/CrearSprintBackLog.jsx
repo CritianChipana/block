@@ -27,7 +27,7 @@ export const CrearSprintBackLog = () => {
 
             <h2>SALIDAS</h2>
             <h3>Sprint Backlog</h3>
-            <img src="https://i.pinimg.com/originals/d5/ea/3e/d5ea3ee64f7a8f4817a396f6546e9dfa.jpg" alt="Hola mmgvzo" />
+            <img src="https://i.pinimg.com/originals/74/46/7d/74467d997558d201cbf672ec9322ee76.png" alt="Hola mmgvzo" />
             <h3>Sprint Burndown Chart</h3>
             <img src="https://i.pinimg.com/originals/56/da/f6/56daf68ea6901c222232cf9e6d0ccdc2.jpg" alt="jean" />
         <BotonAtras direccion={"planificacionestimacion"} /> 

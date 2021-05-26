@@ -33,6 +33,7 @@ export const IdentificarScrumMaster = () => {
             <img src="https://i.pinimg.com/564x/b5/0c/8b/b50c8bddf9d9eb8df5f5630e04238c15.jpg" alt="alvaro" />
 
             <h3>Costos de Recursos</h3>
+            <iframe width="789" height="444" src="https://www.youtube.com/embed/zLBX45o0Buk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <img className="costos-de-recursos" src="https://i.pinimg.com/564x/a5/08/5e/a5085ef307fbdb28bc777ba9f2097ec2.jpg" alt=" costos de recursos sato" />
 
             <h2>SALIDAS</h2>

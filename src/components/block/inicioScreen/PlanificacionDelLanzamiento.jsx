@@ -23,17 +23,9 @@ export const PlanificacionDelLanzamiento = () => {
         <h3>Declaracion de la vision del proyecto</h3>
         <p>Desarrollar una aplicación web que brinde herramientas de ayuda personalizada, para que los pacientes de NUTRI & FIT logren mantener un estilo de vida saludable y balanceado.</p>
 
-        <h3>Backlog Priorizado del producto</h3>
-        <iframe width="729" height="410" src="https://www.youtube.com/embed/GfakUFBE7YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-        <h2>SALIDAS</h2>
+        
         <h3>Backlog Priorizado del Producto</h3>
-        <p>Usamos el método de los 100 puntos para dar prioridad a las historias de usuarios o requerimientos en el Backlog Priorizado del Producto sobre la base del valor de negocio.</p>
-        <img src="https://i.pinimg.com/originals/9b/54/3b/9b543bc73b6e794bcd8ad8187dd8f0cf.png" alt="Maria-no lo hizo" />
-        <p>Seguido, de usa el Scrum Poker para dividir la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, es por esto que luego de finalizar esta dinámica se le preguntó al equipo de desarrollo la cantidad de trabajo que puede realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p>
-        <img src="https://i.pinimg.com/originals/02/dc/7e/02dc7ef20a35c34432dbbd3315c800bf.png" alt="maria" />
-
-        <img src="https://i.pinimg.com/originals/28/ce/06/28ce06f489db6406b8bc26ed14d7deed.png" alt="maria mala" />
+        <img src="https://i.pinimg.com/originals/71/bb/ea/71bbea84fa66308d20f84de77cbd5abe.png" alt="maria mala" />
 
         <h3>Criterios de  terminado</h3>
         <ul>
@@ -69,6 +61,7 @@ export const PlanificacionDelLanzamiento = () => {
         {/* <p>JEAN</p> */}
 
         <h3>Duracion del sprint</h3>
+        <p>Con base en las diversas entradas, incluyendo los requerimientos del negocio y el cronograma de planificación del lanzamiento, el Product Owner y el Equipo Scrum deciden la duración del sprint para el proyecto. Una vez determinada, la duración del sprint generalmente permanece igual durante el proyecto. Las actividades tendrán duración de 12 semanas, es decir, cada Sprint se presentará cada 3 semanas.</p>
         <Silder  elemtos={ calendario }/>
 
 

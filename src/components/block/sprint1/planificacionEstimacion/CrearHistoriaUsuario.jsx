@@ -16,7 +16,7 @@ export const CrearHistoriaUsuario = () => {
             <SliderCard elemtos={"as"} />
 
             <h3>Backlog Priorizado del Producto</h3>
-            <img src="https://i.pinimg.com/originals/9b/54/3b/9b543bc73b6e794bcd8ad8187dd8f0cf.png" alt="todos" />
+            <img src="https://i.pinimg.com/originals/fc/77/17/fc77178b93caa15bf0aa240ab0ac0f9b.png" alt="todos" />
 
             <h3>Criterios de termino</h3>            
             <ul>

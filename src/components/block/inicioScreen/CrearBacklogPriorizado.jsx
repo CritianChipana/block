@@ -65,11 +65,11 @@ export const CrearBacklogPriorizado = () => {
             <h2>SALIDAS</h2>
             <h3>Backlog Priorizado del Producto</h3>
             <p>Usamos el método de los 100 puntos para dar prioridad a las historias de usuarios o requerimientos en el Backlog Priorizado del Producto sobre la base del valor de negocio.</p>
-            <img src="https://i.pinimg.com/originals/9b/54/3b/9b543bc73b6e794bcd8ad8187dd8f0cf.png" alt="Maria-no lo hizo" />
-            <p>Seguido, de usa el Scrum Poker para dividir la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, es por esto que luego de finalizar esta dinámica se le preguntó al equipo de desarrollo la cantidad de trabajo que puede realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p>
-            <img src="https://i.pinimg.com/originals/02/dc/7e/02dc7ef20a35c34432dbbd3315c800bf.png" alt="maria" />
+            {/* <img src="https://i.pinimg.com/originals/9b/54/3b/9b543bc73b6e794bcd8ad8187dd8f0cf.png" alt="Maria-no lo hizo" /> */}
+            {/* <p>Seguido, de usa el Scrum Poker para dividir la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, es por esto que luego de finalizar esta dinámica se le preguntó al equipo de desarrollo la cantidad de trabajo que puede realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p> */}
+            {/* <img src="https://i.pinimg.com/originals/02/dc/7e/02dc7ef20a35c34432dbbd3315c800bf.png" alt="maria" /> */}
 
-            <img src="https://i.pinimg.com/originals/28/ce/06/28ce06f489db6406b8bc26ed14d7deed.png" alt="maria mala" />
+            <img src="https://i.pinimg.com/originals/71/bb/ea/71bbea84fa66308d20f84de77cbd5abe.png" alt="maria mala" />
 
             <h3>Criterios de termino</h3>
             

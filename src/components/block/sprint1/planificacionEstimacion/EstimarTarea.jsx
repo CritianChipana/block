@@ -13,7 +13,7 @@ export const EstimarTarea = () => {
         <h3>Equipo Principal de Scrum</h3>
         <SliderCard elemtos={"as"} />
         <h3>Lista de tareas</h3>
-        <img src="https://i.pinimg.com/originals/1b/c3/80/1bc380a9cf2997358079e2fa83763d3b.jpg" alt="maria" />
+        <img src="https://i.pinimg.com/originals/50/f7/66/50f76685d797127cfaaf323b77ee736b.png" alt="maria" />
 
 
         <h2>HERRAMIENTAS</h2>

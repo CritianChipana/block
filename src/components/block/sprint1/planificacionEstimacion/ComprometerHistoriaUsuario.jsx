@@ -17,7 +17,7 @@ export const ComprometerHistoriaUsuario = () => {
             <SliderCard elemtos={"as"} />
             
             <h3>Historias del usuario estimadas</h3>
-            <img className="ACHICAR-IMG" src="https://i.pinimg.com/originals/28/ce/06/28ce06f489db6406b8bc26ed14d7deed.png" alt="Nadie FfF" />
+            <img className="ACHICAR-IMG" src="https://i.pinimg.com/originals/71/bb/ea/71bbea84fa66308d20f84de77cbd5abe.png" alt="Nadie FfF" />
             
             <h3>Duracion del sprint</h3>
             <Silder  elemtos={ calendario }/>
@@ -28,7 +28,8 @@ export const ComprometerHistoriaUsuario = () => {
             <iframe width="789" height="444" src="https://www.youtube.com/embed/OJsPUzYuieg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <h2>SALIDAS</h2>
             <h3>Historias de usuario comprometidas</h3>
-            <img src="https://i.pinimg.com/originals/24/32/5e/24325ea012ac21136efd02dad0f06d92.jpg" alt="nose cualpa  mia" />
+            <p>De acuerdo a la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, se le preguntó al equipo de desarrollo la cantidad de trabajo que puedes realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p>
+            <img src="https://i.pinimg.com/originals/8f/5b/87/8f5b87f4d14b47a798d7e0b1ac7ed9e9.png" alt="nose cualpa  mia" />
         <BotonAtras direccion={"planificacionestimacion"} /> 
 
         </div>
