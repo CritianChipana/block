@@ -15,7 +15,7 @@ export const CrearSprintBackLog = () => {
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
             <h3>Effort Estimated Task List</h3>
-            <img src="https://i.pinimg.com/originals/37/7c/24/377c244b978d82ac8735c2d92c5a77f6.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/5d/eb/4d/5deb4d617ee3f36a0f472d0906bc0123.png" alt="alvaro" />
             <h3>Duracion del sprint</h3>
             <Silder  elemtos={ calendario }/>
             
