@@ -9,6 +9,13 @@ export const sprint1Options = [
         filtro:"sprint1"
     },
     {
+        titulo:"IMPLEMENTACION",
+        logo:"fas fa-poll-h",
+        direccion:"/block/implementacion",
+        contenidoLink:"IMPLEMENTACION",
+        filtro:"sprint1"
+    },
+    {
         titulo:"CREAR HISTORIAS DE USUARIO",
         logo:"fas fa-square",
         direccion:"/block/crearhistoria",
@@ -49,5 +56,26 @@ export const sprint1Options = [
         direccion:"/block/crearsprintbacklog",
         contenidoLink:"SPRINT BACKLOG",
         filtro:"elementos9"
+    },
+    {
+        titulo:"CREAR ENTREGABLES",
+        logo:"fab fa-dochub",
+        direccion:"/block/crearentregable1",
+        contenidoLink:"ENTREGABLES",
+        filtro:"elementos10"
+    },
+    {
+        titulo:"REALIZAR DAILY STANDUP ",
+        logo:"far fa-handshake",
+        direccion:"/block/dailystand1",
+        contenidoLink:"DAILY STANDUP",
+        filtro:"elementos10"
+    },
+    {
+        titulo:"REFINAMIENTO DEL BACKLOG PRIORIZADO",
+        logo:"fas fa-tasks",
+        direccion:"/block/refinamiento1",
+        contenidoLink:"REFINAMIENTO",
+        filtro:"elementos10"
     }
 ]

@@ -27,6 +27,10 @@ import { Sprint4 } from '../components/block/sprint4/Sprint4';
 import { Footer } from '../components/footer/Footer';
 import { NavBar } from './../components/navBar/NavBar';
 
+import { Implementacion } from '../components/block/sprint1/implementacion/Implementacion'
+import { CrearEntregable } from '../components/block/sprint1/implementacion/CrearEntregable';
+import { RealizarDailyStandup } from '../components/block/sprint1/implementacion/RealizarDailyStandup';
+import { RefinamientoDelBacklogPriorizado } from '../components/block/sprint1/implementacion/RefinamientoDelBacklogPriorizado';
 
 export const AppRouter = () => {
     return (
@@ -56,6 +60,11 @@ export const AppRouter = () => {
                     <Route exact path="/block/identificartareas" component={ IdentificarTareas } />
                     <Route exact path="/block/estimartareas" component={ EstimarTarea } />
                     <Route exact path="/block/crearsprintbacklog" component={ CrearSprintBackLog } />
+
+                    <Route exact path="/block/implementacion" component={ Implementacion } />
+                    <Route exact path="/block/crearentregable1" component={ CrearEntregable } />
+                    <Route exact path="/block/dailystand1" component={ RealizarDailyStandup } />
+                    <Route exact path="/block/refinamiento1" component={ RefinamientoDelBacklogPriorizado } />
 
                     <Redirect  to="/block"/>
                 </Switch>
