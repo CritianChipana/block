@@ -37,7 +37,7 @@ export const DemostrarValidaSprint = () => {
 
         <h2>HERRAMIENTAS</h2>
         <h3>Reunion de revision del Sprint</h3>
-        <p>todos</p>
+        <iframe width="789" height="444" src="https://www.youtube.com/embed/QhgI3is68FQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <h2>SALIDAS</h2>
         <h3>Entregables aceptados</h3>
