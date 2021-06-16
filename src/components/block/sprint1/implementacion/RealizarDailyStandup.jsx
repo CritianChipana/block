@@ -36,12 +36,19 @@ export const RealizarDailyStandup = () => {
                 <li><p>¿Qué tengo planeado hacer antes de la siguiente reunión?</p></li>
                 <li><p>¿Qué impedimentos u obstáculos (si los hubiera) estoy enfrentando en la actualidad?</p></li>
             </ol>
-            <iframe width="709" height="399" src="https://www.youtube.com/embed/hNWGJXYCqIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+            <iframe width="789" height="444" src="https://www.youtube.com/embed/hNWGJXYCqIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p></p>
+            <iframe width="789" height="444" src="https://www.youtube.com/embed/Dkjz3r8mDMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             <h2>SALIDAS</h2>
             <h3>Sprint Burndown Chart Actualizado</h3>
+            <img src="https://i.pinimg.com/originals/c5/a7/8e/c5a78e2f3e1b4ef0dbb5617b253358c8.png" alt="jean" />
+            <img className="grande-sprint1" src="https://i.pinimg.com/originals/14/bf/74/14bf7481f7a357fda05cdaa973938c71.png" alt="jean" />
+            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/63/b0/8c/63b08c38524d5f9758d14e796ebd5f98.jpg" alt="jean" />
+            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/85/7b/35/857b351bef34cb6363ce268c6b84ba73.jpg" alt="jean" />
+            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/d6/90/a4/d690a43724f36c48502e2f692f6df326.jpg" alt="jean" />
             <img src="https://i.pinimg.com/originals/2b/5a/58/2b5a586dfab2d3a20eb3cc8eb81aad0c.jpg" alt="jean" />
+            <img className="grande-sprint1"  src="https://i.pinimg.com/originals/93/68/75/9368754e881f1c1f18539b3fd5e32d38.png" alt="jean" />
 
             <h3>Impediment Log actualizado</h3>
             <img src="https://i.pinimg.com/originals/08/f7/29/08f7293be5bd62341a710c8b1af3bca9.jpg" alt="red" />

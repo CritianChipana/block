@@ -2,8 +2,6 @@ import React from 'react'
 import { Opciones } from '../../opciones/Opciones'
 import { selectorByNameOptions } from '../../selectors/selectorByNameOptions'
 
-
-
 export const Sprint1 = () => {
 
     const aa = selectorByNameOptions("sprint1");

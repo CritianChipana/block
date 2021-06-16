@@ -16,6 +16,20 @@ export const sprint1Options = [
         filtro:"sprint1"
     },
     {
+        titulo:"REVISION Y RESTROSPECTIVA",
+        logo:"fas fa-poll-h",
+        direccion:"/block/revision",
+        contenidoLink:"REVISION Y RESTROSPECTIVA",
+        filtro:"sprint1"
+    },
+    {
+        titulo:"LANZAMIENTO",
+        logo:"fas fa-poll-h",
+        direccion:"/block/lanzamiento",
+        contenidoLink:"LANZAMIENTO",
+        filtro:"sprint1"
+    },
+    {
         titulo:"CREAR HISTORIAS DE USUARIO",
         logo:"fas fa-square",
         direccion:"/block/crearhistoria",
@@ -77,5 +91,26 @@ export const sprint1Options = [
         direccion:"/block/refinamiento1",
         contenidoLink:"REFINAMIENTO",
         filtro:"elementos10"
+    },
+    {
+        titulo:"DEMOSTRAR Y VALIDAR EL SPRINT",
+        logo:"far fa-handshake",
+        direccion:"/block/demostravalidar",
+        contenidoLink:"Demostrar y validar",
+        filtro:"elementos11"
+    },
+    {
+        titulo:"RETROSPECTIVA DEL SPRINT",
+        logo:"fas fa-tasks",
+        direccion:"/block/restrospectiva",
+        contenidoLink:"REsTROSPECTIVA DEL SPRINT",
+        filtro:"elementos11"
+    },
+    {
+        titulo:"ENVIO DE ENTREGABLES",
+        logo:"fas fa-tasks",
+        direccion:"/block/envioentregables",
+        contenidoLink:"ENVIO ENTREGABLES",
+        filtro:"elementos12"
     }
 ]

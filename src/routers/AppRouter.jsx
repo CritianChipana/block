@@ -31,6 +31,11 @@ import { Implementacion } from '../components/block/sprint1/implementacion/Imple
 import { CrearEntregable } from '../components/block/sprint1/implementacion/CrearEntregable';
 import { RealizarDailyStandup } from '../components/block/sprint1/implementacion/RealizarDailyStandup';
 import { RefinamientoDelBacklogPriorizado } from '../components/block/sprint1/implementacion/RefinamientoDelBacklogPriorizado';
+import { RevisionRestrospectiva } from '../components/block/sprint1/revision y restrospectiva/RevisionRestrospectiva';
+import { DemostrarValidaSprint } from '../components/block/sprint1/revision y restrospectiva/DemostrarValidaSprint';
+import { RetrospectivaDelSprint } from '../components/block/sprint1/revision y restrospectiva/RetrospectivaDelSprint';
+import { Lanzamiento } from '../components/block/sprint1/lanzamiento/Lanzamiento';
+import { EnvioEntregables } from '../components/block/sprint1/lanzamiento/EnvioEntregables';
 
 export const AppRouter = () => {
     return (
@@ -65,6 +70,14 @@ export const AppRouter = () => {
                     <Route exact path="/block/crearentregable1" component={ CrearEntregable } />
                     <Route exact path="/block/dailystand1" component={ RealizarDailyStandup } />
                     <Route exact path="/block/refinamiento1" component={ RefinamientoDelBacklogPriorizado } />
+
+                    <Route exact path="/block/revision" component={ RevisionRestrospectiva} />
+                    <Route exact path="/block/demostravalidar" component={ DemostrarValidaSprint} />
+                    <Route exact path="/block/restrospectiva" component={ RetrospectivaDelSprint } />
+
+                    <Route exact path="/block/lanzamiento" component={ Lanzamiento } />
+                    <Route exact path="/block/envioentregables" component={ EnvioEntregables } />
+
 
                     <Redirect  to="/block"/>
                 </Switch>

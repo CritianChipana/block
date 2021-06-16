@@ -69,7 +69,8 @@ export const CrearBacklogPriorizado = () => {
             {/* <p>Seguido, de usa el Scrum Poker para dividir la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, es por esto que luego de finalizar esta dinámica se le preguntó al equipo de desarrollo la cantidad de trabajo que puede realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p> */}
             {/* <img src="https://i.pinimg.com/originals/02/dc/7e/02dc7ef20a35c34432dbbd3315c800bf.png" alt="maria" /> */}
 
-            <img src="https://i.pinimg.com/originals/71/bb/ea/71bbea84fa66308d20f84de77cbd5abe.png" alt="maria mala" />
+            <img src="https://i.pinimg.com/originals/39/cc/21/39cc212cf513e89054cccb4d6358092d.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/ba/5b/61/ba5b61a29f352df7e81ddc96859c1e86.jpg" alt="jose" />
 
             <h3>Criterios de termino</h3>
             

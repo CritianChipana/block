@@ -56,3 +56,10 @@
     width: 200px;
     margin-left: 45px;
 }
+/* //////////////////////////////////// TAMAÑOS DE IMAGENES */
+.grande-sprint1{
+    width: 100vw;
+}
+.chicos-sprint1{
+    width: 90vw;
+}

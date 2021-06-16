@@ -14,8 +14,8 @@ export const IdentificarTareas = () => {
             <SliderCard elemtos={"as"} />
 
             <h3>Historias del usuario Comprometida</h3>
-            <img src="https://i.pinimg.com/originals/8f/5b/87/8f5b87f4d14b47a798d7e0b1ac7ed9e9.png" alt="nose cualpa  mia" />
-           
+            <img src="https://i.pinimg.com/originals/dc/ac/58/dcac5870755c923c5803d7872a9ad19d.jpg" alt="nose cualpa  mia" />
+
 
 
             <h2>HERRAMIENTAS</h2>

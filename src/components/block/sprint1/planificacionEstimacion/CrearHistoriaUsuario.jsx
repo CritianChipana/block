@@ -52,8 +52,9 @@ En general consideraria que fue un experiencia satisfactoria.</p>
             {/* <p>Falta JOSE</p> */}
 
             <h3>Criterio de aceptacion de historias del Usuario</h3>
-            <img src="https://i.pinimg.com/originals/e9/6e/fd/e96efd485e389a8238aa87e86d58c391.jpg" alt="on jose" />
-            <img src="https://i.pinimg.com/originals/20/4c/6c/204c6c199d97c79c1d84fbbf0e4773de.jpg" alt="on jose" />
+            <img src="https://i.pinimg.com/originals/80/94/16/809416a5e717bdbf90fd1f1393bdb2f2.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/ce/20/89/ce2089b8041c855c2f7e51f602e02612.jpg" alt="jose" />
+
             <BotonAtras direccion={"planificacionestimacion"} /> 
 
 

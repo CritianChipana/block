@@ -29,7 +29,8 @@ export const EstimarHistoriaUsuario = () => {
 
             <h2>SALIDAS</h2>
             <h3>Historias del usuario estimadas</h3>
-            <img className="ACHICAR-IMG" src="https://i.pinimg.com/originals/71/bb/ea/71bbea84fa66308d20f84de77cbd5abe.png" alt="Nadie FfF" />
+            <img src="https://i.pinimg.com/originals/39/cc/21/39cc212cf513e89054cccb4d6358092d.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/ba/5b/61/ba5b61a29f352df7e81ddc96859c1e86.jpg" alt="jose" />
             <BotonAtras direccion={"planificacionestimacion"} /> 
 
         </div>
