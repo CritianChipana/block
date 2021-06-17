@@ -6,7 +6,7 @@ import { SliderCard } from '../../../sliderCard/SliderCard';
 export const DemostrarValidaSprint = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
-        <BotonAtras direccion={"implementacion"} /> 
+        <BotonAtras direccion={"revision"} /> 
 
         <h2 className="title-principal" >DEMOSTRAR Y VALIDAR EL SPRINT</h2>
 

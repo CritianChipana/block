@@ -9,7 +9,7 @@ import { Bblopers } from './../../blockScreen/Bblopers';
 export const RetrospectivaDelSprint = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
-        <BotonAtras direccion={"implementacion"} /> 
+        <BotonAtras direccion={"revision"} /> 
 
         <h2 className="title-principal" >RESTROSPECTIVA DEL SPRINT</h2>
 
