@@ -7,7 +7,7 @@ import { Carta } from './../../../carta/Carta';
 export const EnvioEntregables = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
-        <BotonAtras direccion={"implementacion"} /> 
+        <BotonAtras direccion={"lanzamiento"} /> 
 
         <h2 className="title-principal" >ENVIAR ENTREGABLES</h2>
 
