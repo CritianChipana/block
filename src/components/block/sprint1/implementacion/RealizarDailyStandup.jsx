@@ -48,7 +48,7 @@ export const RealizarDailyStandup = () => {
             <img className="chicos-sprint1" src="https://i.pinimg.com/originals/85/7b/35/857b351bef34cb6363ce268c6b84ba73.jpg" alt="jean" />
             <img className="chicos-sprint1" src="https://i.pinimg.com/originals/d6/90/a4/d690a43724f36c48502e2f692f6df326.jpg" alt="jean" />
             <img src="https://i.pinimg.com/originals/2b/5a/58/2b5a586dfab2d3a20eb3cc8eb81aad0c.jpg" alt="jean" />
-            <img className="grande-sprint1"  src="https://i.pinimg.com/originals/93/68/75/9368754e881f1c1f18539b3fd5e32d38.png" alt="jean" />
+            <img className="grande-sprint1"  src="https://i.pinimg.com/originals/25/57/95/25579531715bdd18b79f477dc3bb28e3.jpg" alt="jean" />
 
             <h3>Impediment Log actualizado</h3>
             <img src="https://i.pinimg.com/originals/08/f7/29/08f7293be5bd62341a710c8b1af3bca9.jpg" alt="red" />
