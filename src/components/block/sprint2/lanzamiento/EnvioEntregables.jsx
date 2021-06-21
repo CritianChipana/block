@@ -4,10 +4,10 @@ import { BotonAtras } from '../../../botonAtras/BotonAtras';
 import { Carta } from './../../../carta/Carta';
 
 
-export const EnvioEntregables = () => {
+export const EnvioEntregables2 = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
-            <BotonAtras direccion={"lanzamiento"} /> 
+            <BotonAtras direccion={"lanzamiento2"} /> 
 
             <h2 className="title-principal" >ENVIAR ENTREGABLES</h2>
 
@@ -32,6 +32,8 @@ export const EnvioEntregables = () => {
             <h3>Acuerdo de entregables funcionales</h3>
             <img src="https://i.pinimg.com/originals/3a/fd/ee/3afdeeadb794af88ac13e2d143b5f5d5.jpg" alt="alvaro" />
             <img src="https://i.pinimg.com/originals/ce/42/ec/ce42ec056df6641c1afdb8d69ddaf198.jpg" alt="alvaro" />
+            <BotonAtras direccion={"lanzamiento2"} /> 
+
         </div>
     )
 }

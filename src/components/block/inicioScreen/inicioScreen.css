@@ -6,6 +6,11 @@
     
 }
 
+.content-lanzamiento-option{
+    display: grid;
+    width: 400px;
+}
+
 .option-item{
     /* border: 1px solid black; */
     text-align: center;

@@ -36,6 +36,26 @@ import { DemostrarValidaSprint } from '../components/block/sprint1/revision y re
 import { RetrospectivaDelSprint } from '../components/block/sprint1/revision y restrospectiva/RetrospectivaDelSprint';
 import { Lanzamiento } from '../components/block/sprint1/lanzamiento/Lanzamiento';
 import { EnvioEntregables } from '../components/block/sprint1/lanzamiento/EnvioEntregables';
+// ***************************** sprint 2 *******************************************************
+import { PlanificacionEstimacion2 } from '../components/block/sprint2/planificacionEstimacion/PlanificacionEstimacion';
+import { CrearHistoriaUsuario2 } from '../components/block/sprint2/planificacionEstimacion/CrearHistoriaUsuario';
+import { EstimarHistoriaUsuario2 } from '../components/block/sprint2/planificacionEstimacion/EstimarHistoriaUsuario';
+import { ComprometerHistoriaUsuario2 } from '../components/block/sprint2/planificacionEstimacion/ComprometerHistoriaUsuario';
+import { IdentificarTareas2 } from '../components/block/sprint2/planificacionEstimacion/IdentificarTareas';
+import { EstimarTarea2 } from '../components/block/sprint2/planificacionEstimacion/EstimarTarea';
+import { CrearSprintBackLog2 } from '../components/block/sprint2/planificacionEstimacion/CrearSprintBackLog';
+
+import { Implementacion2 } from '../components/block/sprint2/implementacion/Implementacion'
+import { CrearEntregable2 } from '../components/block/sprint2/implementacion/CrearEntregable';
+import { RealizarDailyStandup2 } from '../components/block/sprint2/implementacion/RealizarDailyStandup';
+import { RefinamientoDelBacklogPriorizado2 } from '../components/block/sprint2/implementacion/RefinamientoDelBacklogPriorizado';
+
+import { RevisionRestrospectiva2 } from '../components/block/sprint2/revision y restrospectiva/RevisionRestrospectiva';
+import { DemostrarValidaSprint2 } from '../components/block/sprint2/revision y restrospectiva/DemostrarValidaSprint';
+import { RetrospectivaDelSprint2 } from '../components/block/sprint2/revision y restrospectiva/RetrospectivaDelSprint';
+
+import { Lanzamiento2 } from '../components/block/sprint2/lanzamiento/Lanzamiento';
+import { EnvioEntregables2 } from '../components/block/sprint2/lanzamiento/EnvioEntregables';
 
 export const AppRouter = () => {
     return (
@@ -57,7 +77,7 @@ export const AppRouter = () => {
                     <Route exact path="/block/epicas" component={ DesarrolloEpicas } />
                     <Route exact path="/block/backlog" component={ CrearBacklogPriorizado } />
                     <Route exact path="/block/planificacion" component={ PlanificacionDelLanzamiento } />
-
+        {/* *********************** primer Sprint */}
                     <Route exact path="/block/planificacionestimacion" component={ PlanificacionEstimacion } />
                     <Route exact path="/block/crearhistoria" component={ CrearHistoriaUsuario } />
                     <Route exact path="/block/estimarhistorias" component={ EstimarHistoriaUsuario } />
@@ -78,6 +98,26 @@ export const AppRouter = () => {
                     <Route exact path="/block/lanzamiento" component={ Lanzamiento } />
                     <Route exact path="/block/envioentregables" component={ EnvioEntregables } />
 
+        {/* *********************** Segundo Sprint */}
+        <Route exact path="/block/planificacionestimacion2" component={ PlanificacionEstimacion2 } />
+        <Route exact path="/block/crearhistoria2" component={ CrearHistoriaUsuario2 } />
+        <Route exact path="/block/estimarhistorias2" component={ EstimarHistoriaUsuario2 } />
+        <Route exact path="/block/comprometerhistorias2" component={ ComprometerHistoriaUsuario2 } />
+        <Route exact path="/block/identificartareas2" component={ IdentificarTareas2 } />
+        <Route exact path="/block/estimartareas2" component={ EstimarTarea2 } />
+        <Route exact path="/block/crearsprintbacklog2" component={ CrearSprintBackLog2 } />
+
+        <Route exact path="/block/implementacion2" component={ Implementacion2 } />
+        <Route exact path="/block/crearentregable2" component={ CrearEntregable2 } />
+        <Route exact path="/block/dailystand2" component={ RealizarDailyStandup2 } />
+        <Route exact path="/block/refinamiento2" component={ RefinamientoDelBacklogPriorizado2 } />
+
+        <Route exact path="/block/revision2" component={ RevisionRestrospectiva2} />
+        <Route exact path="/block/demostravalidar2" component={ DemostrarValidaSprint2} />
+        <Route exact path="/block/restrospectiva2" component={ RetrospectivaDelSprint2 } />
+
+        <Route exact path="/block/lanzamiento2" component={ Lanzamiento2 } />
+        <Route exact path="/block/envioentregables2" component={ EnvioEntregables2 } />
 
                     <Redirect  to="/block"/>
                 </Switch>

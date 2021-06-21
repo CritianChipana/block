@@ -8,7 +8,6 @@ export const Opciones = ({titulo,logo,direccion,contenidoLink}) => {
 
     return (
         <>
-
         
                     <div className="option-item">
                     <h3 className="title-inicioscreen2">{ titulo }</h3>

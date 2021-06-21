@@ -9,17 +9,22 @@ export const Implementacion = () => {
 
 
     return (
-        <div className="option-sprint-content">
-        <BotonAtras direccion={"sprint1"} /> 
-        <div className="content-inicio-options">
+        
+        <>
+            <h2 className="title-principal indicador">Implementacion del sprint <strong>I</strong> </h2>
 
-            {
-                aaa.map( (data)=>(
-                    <Opciones key={ data.titulo }  {...data}/>
-                ) )
-            }
-        </div>
-        <BotonAtras direccion={"sprint1"} /> 
-    </div>
+            <div className="option-sprint-content">
+            <BotonAtras direccion={"sprint1"} /> 
+            <div className="content-inicio-options">
+
+                {
+                    aaa.map( (data)=>(
+                        <Opciones key={ data.titulo }  {...data}/>
+                    ) )
+                }
+            </div>
+            <BotonAtras direccion={"sprint1"} /> 
+            </div>
+        </>
     )
 }

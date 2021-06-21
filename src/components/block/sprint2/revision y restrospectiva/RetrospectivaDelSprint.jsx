@@ -6,10 +6,10 @@ import { Carta } from './../../../carta/Carta';
 import { Bblopers } from './../../blockScreen/Bblopers';
 
 
-export const RetrospectivaDelSprint = () => {
+export const RetrospectivaDelSprint2 = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
-            <BotonAtras direccion={"revision"} /> 
+            <BotonAtras direccion={"revision2"} /> 
 
             <h2 className="title-principal" >RESTROSPECTIVA DEL SPRINT</h2>
 
@@ -40,6 +40,8 @@ export const RetrospectivaDelSprint = () => {
             <h3>Agreed Actionable improvements</h3>
             <img src="https://i.pinimg.com/originals/05/54/08/0554084ccee08d4043042caf71455a9b.png" alt="Maria" />
             <img src="https://i.pinimg.com/originals/29/d8/fd/29d8fd154a06230ad9ee460ec002000e.png" alt="Maria" />
+            <BotonAtras direccion={"revision2"} /> 
+
         </div>
     )
 }
