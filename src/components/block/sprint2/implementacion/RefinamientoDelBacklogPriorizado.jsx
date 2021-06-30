@@ -9,13 +9,12 @@ export const RefinamientoDelBacklogPriorizado2 = () => {
     
 
             <h2 className="title-principal" >CREAR ENTREGABLE</h2>
-caminar
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
 
             <h3>Backlog Priorizado del Producto</h3>
-            <img src="https://i.pinimg.com/originals/fc/77/17/fc77178b93caa15bf0aa240ab0ac0f9b.png" alt="todos" />
+            <img src="https://i.pinimg.com/originals/6a/4b/15/6a4b150aa0863ac62f007564c661e41d.jpg" alt="todos" />
 
 
             <h2>HERRAMIENTAS</h2>
@@ -30,9 +29,7 @@ caminar
 
             <h2>SALIDAS</h2>
             <h3>Backlog Priorizado del Producto actualizado</h3>
-            <img src="https://i.pinimg.com/originals/c0/52/7e/c0527ea64d0eec959b0bd34e09135321.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/82/fb/02/82fb02e4275047e64e15b0a242bcfb2e.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/7d/33/e8/7d33e89d6255f284e85824f2d98fd49b.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/21/34/09/21340926ca8503d3090bd3e81815b5b1.jpg" alt="jose" />
             <BotonAtras direccion={"implementacion2"} /> 
 
         </div>

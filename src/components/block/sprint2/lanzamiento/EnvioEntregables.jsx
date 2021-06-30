@@ -19,19 +19,19 @@ export const EnvioEntregables2 = () => {
             <Carta url={"https://i.pinimg.com/564x/3c/9b/d3/3c9bd38f6241963c91f18858b1f39fb8.jpg"} nombre={"ZEBALLOS CACERES PIERO"} descripcion={"Debido a que es la persona interesada en la realización del proyecto. ZEBALLOS CACERES PIERO será nuestro STAKEHOLDER. Él nos hará llegar los requerimientos de la empresa a través de nuestra Product Owner."} />
 
             <h3>Entregables Aceptados</h3>
-            <img src="https://i.pinimg.com/originals/6e/b1/53/6eb153a5556dd1a8a6e23aad51c0dcc3.jpg" alt="Jose" />
+            <img src="https://i.pinimg.com/originals/6f/18/a4/6f18a46ce001f4dbab3bdab6a4f56a1d.jpg" alt="Jose" />
 
             <h3>Cronograma de planificacion del lanzamiento</h3>
-            <p>tenemos</p>
+            <img src="https://i.pinimg.com/originals/f7/ad/69/f7ad694533ff8a3c215518465c903b6c.jpg" alt="nose" />
             
-            <h2>HERRAMIENTAS</h2>
+            {/* <h2>HERRAMIENTAS</h2>
             <h3>Metodos de desplazamiento organizacional</h3>
-            <p>todos</p>
+            <p>todos</p> */}
 
             <h2>SALIDAS</h2>
             <h3>Acuerdo de entregables funcionales</h3>
-            <img src="https://i.pinimg.com/originals/3a/fd/ee/3afdeeadb794af88ac13e2d143b5f5d5.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/ce/42/ec/ce42ec056df6641c1afdb8d69ddaf198.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/13/9e/16/139e169ee023a563a04767b0efb94ef3.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/00/c2/6d/00c26d854ac1960f5471f637740f9366.jpg" alt="alvaro" />
             <BotonAtras direccion={"lanzamiento2"} /> 
 
         </div>

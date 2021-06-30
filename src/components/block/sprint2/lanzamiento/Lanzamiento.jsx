@@ -1,17 +1,26 @@
 
-import React from 'react'
-// import { BotonAtras } from '../../../botonAtras/BotonAtras'
-// import { Opciones } from '../../../opciones/Opciones'
-// import { selectorByNameOptionSprint2 } from '../../../selectors/selectorByNameOptions'
+// import { Chart } from 'chart.js';
+// import React, { useEffect } from 'react'
+import { BotonAtras } from '../../../botonAtras/BotonAtras'
+import { Opciones } from '../../../opciones/Opciones'
+import { selectorByNameOptionSprint2 } from '../../../selectors/selectorByNameOptions'
 
 export const Lanzamiento2 = () => {
 
-    // const aaa = selectorByNameOptionSprint2("elementos12")
+    const aaa = selectorByNameOptionSprint2("elementos12")
 
 
     return (
         <>
-            {/* <h2 className="title-principal indicador">Lanzamineto del sprint <strong>II</strong> </h2>
+            <div>
+                <canvas id="myChart" width="400" height="400"></canvas>
+
+            </div>
+            
+
+
+
+            <h2 className="title-principal indicador">Lanzamineto del sprint <strong>II</strong> </h2>
 
 
             <div className="option-sprint-content">
@@ -25,7 +34,7 @@ export const Lanzamiento2 = () => {
                     }
                 </div>
                 <BotonAtras direccion={"sprint2"} /> 
-            </div> */}
+            </div>
         </>
     )
 }

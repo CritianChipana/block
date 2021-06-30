@@ -7,13 +7,13 @@ export const EstimarTarea2 = () => {
         <div  className="contenedor-desarrollo-epicas">
             <BotonAtras direccion={"planificacionestimacion2"} /> 
 
-        <h2 className="title-principal" >IDENTIFICAR TAREAS</h2>
+        <h2 className="title-principal" >ESTIMAR TAREAS</h2>
 
         <h2>ENTRADAS</h2>
         <h3>Equipo Principal de Scrum</h3>
         <SliderCard elemtos={"as"} />
         <h3>Lista de tareas</h3>
-        <img src="https://i.pinimg.com/originals/50/f7/66/50f76685d797127cfaaf323b77ee736b.png" alt="maria" />
+        <img src="https://i.pinimg.com/originals/ad/88/c4/ad88c4372c682121b2c4c01586549ee2.jpg" alt="maria" />
 
 
         <h2>HERRAMIENTAS</h2>
@@ -27,7 +27,11 @@ historias de usuario o el trabajo necesario para desarrollarlos.</p>
 
         <h2>SALIDAS</h2>
         <h3>Effort Estimated Task List</h3>
-        <img src="https://i.pinimg.com/originals/5d/eb/4d/5deb4d617ee3f36a0f472d0906bc0123.png" alt="alvaro" />
+        <img src="https://i.pinimg.com/originals/b3/9a/40/b39a40bf9a5c61b6e75915319e646569.jpg" alt="alvaro" />
+        <img src="https://i.pinimg.com/originals/32/a3/80/32a3804045163cf67321a773c23cf10c.jpg" alt="alvaro" />
+        <img src="https://i.pinimg.com/originals/fd/eb/cb/fdebcbb2bc52863cc0f33d59a4203622.jpg" alt="alvaro" />
+        <img src="https://i.pinimg.com/originals/b6/f0/96/b6f096fad9abef3eee82d78d2c57ed8e.jpg" alt="alvaro" />
+        <img src="https://i.pinimg.com/originals/d0/3a/5f/d03a5fcbf11af0702cefe91b62b77dcc.jpg" alt="alvaro" />
         <BotonAtras direccion={"planificacionestimacion2"} /> 
 
     </div>

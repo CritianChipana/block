@@ -10,7 +10,7 @@ export const RealizarDailyStandup2 = () => {
 
 
             <h2 className="title-principal" >CREAR ENTREGABLE</h2>
-caminar
+
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
@@ -20,11 +20,11 @@ caminar
 
 
             <h3>Sprint Burndown Chart</h3>
-            <img src="https://i.pinimg.com/originals/5d/eb/4d/5deb4d617ee3f36a0f472d0906bc0123.png" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/c2/c5/a8/c2c5a8b33dbeb5d3e4b03ee7822f4f1f.jpg" alt="jean" />
 
 
             <h3>Impediment Log</h3>
-            <img src="https://i.pinimg.com/originals/e7/14/2c/e7142cd7a90cff0730c802e95f02d71d.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/cf/fa/6a/cffa6aafb48debebaa8d7f147c11075f.jpg" alt="alvaro" />
 
 
             <h2>HERRAMIENTAS</h2>
@@ -42,16 +42,14 @@ caminar
 
             <h2>SALIDAS</h2>
             <h3>Sprint Burndown Chart Actualizado</h3>
-            <img src="https://i.pinimg.com/originals/c5/a7/8e/c5a78e2f3e1b4ef0dbb5617b253358c8.png" alt="jean" />
-            <img className="grande-sprint1" src="https://i.pinimg.com/originals/14/bf/74/14bf7481f7a357fda05cdaa973938c71.png" alt="jean" />
-            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/63/b0/8c/63b08c38524d5f9758d14e796ebd5f98.jpg" alt="jean" />
-            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/85/7b/35/857b351bef34cb6363ce268c6b84ba73.jpg" alt="jean" />
-            <img className="chicos-sprint1" src="https://i.pinimg.com/originals/d6/90/a4/d690a43724f36c48502e2f692f6df326.jpg" alt="jean" />
-            <img src="https://i.pinimg.com/originals/2b/5a/58/2b5a586dfab2d3a20eb3cc8eb81aad0c.jpg" alt="jean" />
-            <img className="grande-sprint1"  src="https://i.pinimg.com/originals/25/57/95/25579531715bdd18b79f477dc3bb28e3.jpg" alt="jean" />
-
+            <img src="https://i.pinimg.com/originals/f0/c3/ac/f0c3ac9a049c5995fa3b6efb5bada910.jpg" alt="jean" />
+            {/* <img className="grande-sprint1" src="https://i.pinimg.com/originals/14/bf/74/14bf7481f7a357fda05cdaa973938c71.png" alt="jean" /> */}
+            {/* <img className="chicos-sprint1" src="https://i.pinimg.com/originals/63/b0/8c/63b08c38524d5f9758d14e796ebd5f98.jpg" alt="jean" /> */}
+            <img src="https://i.pinimg.com/originals/ff/48/29/ff482931919c948ea52601e1043107bb.jpg" alt="jean" />
+            <img src="https://i.pinimg.com/originals/93/ee/60/93ee6093370b495cbfe93f613f362d2c.jpg" alt="jean" />
+            
             <h3>Impediment Log actualizado</h3>
-            <img src="https://i.pinimg.com/originals/08/f7/29/08f7293be5bd62341a710c8b1af3bca9.jpg" alt="red" />
+            <img src="https://i.pinimg.com/originals/3a/87/79/3a87799429ea3f4742d47c8b3f82f180.jpg" alt="red" />
             <BotonAtras direccion={"implementacion2"} /> 
 
         </div>

@@ -9,7 +9,7 @@ export const DemostrarValidaSprint2 = () => {
         <BotonAtras direccion={"revision2"} /> 
 
         <h2 className="title-principal" >DEMOSTRAR Y VALIDAR EL SPRINT</h2>
-caminar
+
         <h2>ENTRADAS</h2>
         <h3>Equipo Principal de Scrum</h3>
         <SliderCard elemtos={"as"} />
@@ -18,8 +18,7 @@ caminar
         <p>tenemos</p> */}
 
         <h3>Sprint Backlog</h3>
-        <img src="https://i.pinimg.com/originals/39/cc/21/39cc212cf513e89054cccb4d6358092d.jpg" alt="jose" />
-        <img src="https://i.pinimg.com/originals/ba/5b/61/ba5b61a29f352df7e81ddc96859c1e86.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/21/34/09/21340926ca8503d3090bd3e81815b5b1.jpg" alt="jose" />
 
         <h3>Criterios de terminado</h3>
         <ul>
@@ -32,8 +31,8 @@ caminar
             </ul>
 
         <h3>Criterio de aceptacion de las historias del usuario</h3>
-        <img src="https://i.pinimg.com/originals/80/94/16/809416a5e717bdbf90fd1f1393bdb2f2.jpg" alt="jose" />
-        <img src="https://i.pinimg.com/originals/ce/20/89/ce2089b8041c855c2f7e51f602e02612.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/22/d7/1b/22d71b9447a3c46633faf1e818fc4b80.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/4a/6c/fd/4a6cfd97d0071710f89725fb8e2690c7.jpg" alt="jose" />
 
         <h2>HERRAMIENTAS</h2>
         <h3>Reunion de revision del Sprint</h3>
@@ -41,10 +40,10 @@ caminar
 
         <h2>SALIDAS</h2>
         <h3>Entregables aceptados</h3>
-        <img src="https://i.pinimg.com/originals/6e/b1/53/6eb153a5556dd1a8a6e23aad51c0dcc3.jpg" alt="Jose" />
+        <img src="https://i.pinimg.com/originals/6f/18/a4/6f18a46ce001f4dbab3bdab6a4f56a1d.jpg" alt="Jose" />
 
         <h3>Riesgos actualizados</h3>
-        <img src="https://i.pinimg.com/originals/fe/01/e5/fe01e5c1bd7f529b8c2ff77171217b60.jpg" alt="jean" />
+        <img src="https://i.pinimg.com/originals/7e/99/3c/7e993cd612c3b3c0bf5aa416817e586b.jpg" alt="jean" />
         
         <BotonAtras direccion={"revision2"} /> 
 

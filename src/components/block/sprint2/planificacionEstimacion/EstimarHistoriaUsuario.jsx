@@ -8,7 +8,6 @@ export const EstimarHistoriaUsuario2 = () => {
             <BotonAtras direccion={"planificacionestimacion2"} /> 
 
             <h2 className="title-principal" >ESTIMAR HISTORIAS DE USUARIO</h2>
-            caminar
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
@@ -29,8 +28,8 @@ export const EstimarHistoriaUsuario2 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Historias del usuario estimadas</h3>
-            <img src="https://i.pinimg.com/originals/39/cc/21/39cc212cf513e89054cccb4d6358092d.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/ba/5b/61/ba5b61a29f352df7e81ddc96859c1e86.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/ed/f0/d2/edf0d2b0ee6f52a738463c5d4d8a35d4.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/e3/dc/5c/e3dc5c737959d451ab5c6918908a25fc.jpg" alt="jose" />
             <BotonAtras direccion={"planificacionestimacion2"} /> 
 
         </div>

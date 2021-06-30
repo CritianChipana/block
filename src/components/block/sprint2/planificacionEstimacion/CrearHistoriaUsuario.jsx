@@ -1,5 +1,5 @@
 import React from 'react'
-import { prototipos } from '../../../../data/prototipos'
+import { prototipos } from '../../../../data/prototiposSprint2'
 import { BotonAtras } from '../../../botonAtras/BotonAtras'
 import { Silder } from '../../../slider/Silder'
 import { SliderCard } from '../../../sliderCard/SliderCard'
@@ -8,15 +8,14 @@ export const CrearHistoriaUsuario2 = () => {
     return (
         <div  className="contenedor-desarrollo-epicas">
             <BotonAtras direccion={"planificacionestimacion2"} /> 
-            caminar
-            <h2 className="title-principal" >CREARaaa HISTORIAS DE USUARIO</h2>
+            <h2 className="title-principal" >CREAR HISTORIAS DE USUARIO</h2>
 
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
 
             <h3>Backlog Priorizado del Producto</h3>
-            <img src="https://i.pinimg.com/originals/fc/77/17/fc77178b93caa15bf0aa240ab0ac0f9b.png" alt="todos" />
+            <img src="https://i.pinimg.com/originals/6a/4b/15/6a4b150aa0863ac62f007564c661e41d.jpg" alt="todos" />
 
             <h3>Criterios de termino</h3>            
             <ul>
@@ -34,10 +33,7 @@ export const CrearHistoriaUsuario2 = () => {
 
             <h2>HERRAMIENTAS</h2>
             <h3>Experiencia en la redaccion de historias de usuario</h3>
-            <p>La experiencia para esta situacion fue retraolimentativa, al estar en un entorno
-agil las herramientas estan en nuestra disposicion siendo la unica complicacion 
-el ver si las historias que iba planteando cumplian con los criterios de aceptacion
-En general consideraria que fue un experiencia satisfactoria.</p>
+            <p>La experiencia para esta situacion fue retraolimentativa, al estar en un entorno agil las herramientas estan en nuestra disposicion siendo la unica complicacion el ver si las historias que iba planteando cumplian con los criterios de aceptacion En general consideraria que fue un experiencia satisfactoria.</p>
 
             <h2>SALIDAS</h2>
             <h3>Historias de usuarios</h3>
@@ -52,8 +48,8 @@ En general consideraria que fue un experiencia satisfactoria.</p>
             {/* <p>Falta JOSE</p> */}
 
             <h3>Criterio de aceptacion de historias del Usuario</h3>
-            <img src="https://i.pinimg.com/originals/80/94/16/809416a5e717bdbf90fd1f1393bdb2f2.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/ce/20/89/ce2089b8041c855c2f7e51f602e02612.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/22/d7/1b/22d71b9447a3c46633faf1e818fc4b80.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/4a/6c/fd/4a6cfd97d0071710f89725fb8e2690c7.jpg" alt="jose" />
 
             <BotonAtras direccion={"planificacionestimacion2"} /> 
 

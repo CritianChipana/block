@@ -21,7 +21,7 @@ export const RetrospectivaDelSprint2 = () => {
             < Bblopers/>
 
             <h3>Salidas de Demostrar y validar el sprint</h3>
-            <img src="https://i.pinimg.com/originals/6e/b1/53/6eb153a5556dd1a8a6e23aad51c0dcc3.jpg" alt="Jose" />
+            <img src="https://i.pinimg.com/originals/6f/18/a4/6f18a46ce001f4dbab3bdab6a4f56a1d.jpg" alt="Jose" />
 
             <h2>HERRAMIENTAS</h2>
             <h3>Reunion de retrospectiva del sprint</h3>
@@ -38,8 +38,7 @@ export const RetrospectivaDelSprint2 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Agreed Actionable improvements</h3>
-            <img src="https://i.pinimg.com/originals/05/54/08/0554084ccee08d4043042caf71455a9b.png" alt="Maria" />
-            <img src="https://i.pinimg.com/originals/29/d8/fd/29d8fd154a06230ad9ee460ec002000e.png" alt="Maria" />
+            <img src="https://i.pinimg.com/originals/0e/c3/80/0ec38068abcbba1bd0c57138fdff367f.jpg" alt="Maria" />
             <BotonAtras direccion={"revision2"} /> 
 
         </div>

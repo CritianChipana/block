@@ -8,14 +8,12 @@ export const IdentificarTareas2 = () => {
             <BotonAtras direccion={"planificacionestimacion2"} /> 
 
             <h2 className="title-principal" >IDENTIFICAR TAREAS</h2>
-caminar
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
 
             <h3>Historias del usuario Comprometida</h3>
-            <img src="https://i.pinimg.com/originals/dc/ac/58/dcac5870755c923c5803d7872a9ad19d.jpg" alt="nose cualpa  mia" />
-
+            <img src="https://i.pinimg.com/originals/0a/32/31/0a3231c0ac996315cfcf1645f6a16775.jpg" alt="nose cualpa  mia" />
 
 
             <h2>HERRAMIENTAS</h2>
@@ -24,7 +22,7 @@ caminar
 
             <h2>SALIDAS</h2>
             <h3>Lista de tareas</h3>
-            <img src="https://i.pinimg.com/originals/50/f7/66/50f76685d797127cfaaf323b77ee736b.png" alt="maria" />
+            <img src="https://i.pinimg.com/originals/ad/88/c4/ad88c4372c682121b2c4c01586549ee2.jpg" alt="maria" />
         <BotonAtras direccion={"planificacionestimacion2"} /> 
 
         </div>
