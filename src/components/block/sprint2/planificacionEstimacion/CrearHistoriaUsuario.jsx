@@ -48,7 +48,7 @@ export const CrearHistoriaUsuario2 = () => {
             {/* <p>Falta JOSE</p> */}
 
             <h3>Criterio de aceptacion de historias del Usuario</h3>
-            <img src="https://i.pinimg.com/originals/22/d7/1b/22d71b9447a3c46633faf1e818fc4b80.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/e2/e5/fb/e2e5fb18f261a63e57fa86a156422c93.jpg" alt="jose" />
             <img src="https://i.pinimg.com/originals/4a/6c/fd/4a6cfd97d0071710f89725fb8e2690c7.jpg" alt="jose" />
 
             <BotonAtras direccion={"planificacionestimacion2"} /> 
