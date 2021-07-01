@@ -57,6 +57,29 @@ import { RetrospectivaDelSprint2 } from '../components/block/sprint2/revision y 
 import { Lanzamiento2 } from '../components/block/sprint2/lanzamiento/Lanzamiento';
 import { EnvioEntregables2 } from '../components/block/sprint2/lanzamiento/EnvioEntregables';
 
+// ******************************* sprint 3 **************************
+
+import { PlanificacionEstimacion3 } from '../components/block/sprint3/planificacionEstimacion/PlanificacionEstimacion';
+import { CrearHistoriaUsuario3 } from '../components/block/sprint3/planificacionEstimacion/CrearHistoriaUsuario';
+import { EstimarHistoriaUsuario3 } from '../components/block/sprint3/planificacionEstimacion/EstimarHistoriaUsuario';
+import { ComprometerHistoriaUsuario3 } from '../components/block/sprint3/planificacionEstimacion/ComprometerHistoriaUsuario';
+import { IdentificarTareas3 } from '../components/block/sprint3/planificacionEstimacion/IdentificarTareas';
+import { EstimarTarea3 } from '../components/block/sprint3/planificacionEstimacion/EstimarTarea';
+import { CrearSprintBackLog3 } from '../components/block/sprint3/planificacionEstimacion/CrearSprintBackLog';
+
+import { Implementacion3 } from '../components/block/sprint3/implementacion/Implementacion';
+import { CrearEntregable3 } from '../components/block/sprint3/implementacion/CrearEntregable';
+import { RealizarDailyStandup3 } from '../components/block/sprint3/implementacion/RealizarDailyStandup';
+import { RefinamientoDelBacklogPriorizado3 } from '../components/block/sprint3/implementacion/RefinamientoDelBacklogPriorizado';
+
+import { RevisionRestrospectiva3 } from '../components/block/sprint3/revision y restrospectiva/RevisionRestrospectiva';
+import { DemostrarValidaSprint3 } from '../components/block/sprint3/revision y restrospectiva/DemostrarValidaSprint';
+import { RetrospectivaDelSprint3 } from '../components/block/sprint3/revision y restrospectiva/RetrospectivaDelSprint';
+
+import { Lanzamiento3 } from '../components/block/sprint3/lanzamiento/Lanzamiento';
+import { EnvioEntregables3 } from '../components/block/sprint3/lanzamiento/EnvioEntregables';
+
+
 export const AppRouter = () => {
     return (
         <Router>
@@ -118,6 +141,30 @@ export const AppRouter = () => {
 
         <Route exact path="/block/lanzamiento2" component={ Lanzamiento2 } />
         <Route exact path="/block/envioentregables2" component={ EnvioEntregables2 } />
+
+        {/* ***************************** 3 Sprint */}
+        <Route exact path="/block/planificacionestimacion3" component={ PlanificacionEstimacion3 } />
+        <Route exact path="/block/crearhistoria3" component={ CrearHistoriaUsuario3 } />
+        <Route exact path="/block/estimarhistorias3" component={ EstimarHistoriaUsuario3 } />
+        <Route exact path="/block/comprometerhistorias3" component={ ComprometerHistoriaUsuario3 } />
+        <Route exact path="/block/identificartareas3" component={ IdentificarTareas3 } />
+        <Route exact path="/block/estimartareas3" component={ EstimarTarea3 } />
+        <Route exact path="/block/crearsprintbacklog3" component={ CrearSprintBackLog3 } />
+
+        <Route exact path="/block/implementacion3" component={ Implementacion3 } />
+        <Route exact path="/block/crearentregable3" component={ CrearEntregable3 } />
+        <Route exact path="/block/dailystand3" component={ RealizarDailyStandup3 } />
+        <Route exact path="/block/refinamiento3" component={ RefinamientoDelBacklogPriorizado3 } />
+
+        <Route exact path="/block/revision3" component={ RevisionRestrospectiva3} />
+        <Route exact path="/block/demostravalidar3" component={ DemostrarValidaSprint3} />
+        <Route exact path="/block/restrospectiva3" component={ RetrospectivaDelSprint3 } />
+
+        <Route exact path="/block/lanzamiento3" component={ Lanzamiento3 } />
+        <Route exact path="/block/envioentregables3" component={ EnvioEntregables3 } />
+
+
+
 
                     <Redirect  to="/block"/>
                 </Switch>

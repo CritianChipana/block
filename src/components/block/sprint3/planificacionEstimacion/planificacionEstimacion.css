@@ -1,0 +1,12 @@
+.option-sprint-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.ACHICAR-IMG{
+    width: 1300px;
+}
