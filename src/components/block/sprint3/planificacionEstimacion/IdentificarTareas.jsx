@@ -13,7 +13,7 @@ export const IdentificarTareas3 = () => {
             <SliderCard elemtos={"as"} />
 
             <h3>Historias del usuario Comprometida</h3>
-            <img src="https://i.pinimg.com/originals/0a/32/31/0a3231c0ac996315cfcf1645f6a16775.jpg" alt="nose cualpa  mia" />
+            <img src="https://i.pinimg.com/originals/6a/e1/3a/6ae13a3dbf5c2916acad13630ff5a3a9.jpg" alt="nose cualpa  mia" />
 
 
             <h2>HERRAMIENTAS</h2>
@@ -22,7 +22,7 @@ export const IdentificarTareas3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Lista de tareas</h3>
-            <img src="https://i.pinimg.com/originals/ad/88/c4/ad88c4372c682121b2c4c01586549ee2.jpg" alt="maria" />
+            <img src="https://i.pinimg.com/originals/75/10/b0/7510b0321195dbca8555edce126dc1c6.jpg" alt="maria" />
         <BotonAtras direccion={"planificacionestimacion3"} /> 
 
         </div>

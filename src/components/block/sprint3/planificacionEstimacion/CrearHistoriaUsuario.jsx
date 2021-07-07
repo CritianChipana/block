@@ -1,7 +1,6 @@
 import React from 'react'
-import { prototipos } from '../../../../data/prototiposSprint2'
+
 import { BotonAtras } from '../../../botonAtras/BotonAtras'
-import { Silder } from '../../../slider/Silder'
 import { SliderCard } from '../../../sliderCard/SliderCard'
 
 export const CrearHistoriaUsuario3 = () => {
@@ -15,7 +14,7 @@ export const CrearHistoriaUsuario3 = () => {
             <SliderCard elemtos={"as"} />
 
             <h3>Backlog Priorizado del Producto</h3>
-            <img src="https://i.pinimg.com/originals/6a/4b/15/6a4b150aa0863ac62f007564c661e41d.jpg" alt="todos" />
+            <img src="https://i.pinimg.com/originals/5e/20/66/5e206689fff2ab18eee0421ab5f6fc27.jpg" alt="todos" />
 
             <h3>Criterios de termino</h3>            
             <ul>
@@ -28,9 +27,9 @@ export const CrearHistoriaUsuario3 = () => {
             </ul>
 
             <h3>Prototipos</h3>
-            <Silder  elemtos={prototipos}/>
-            
-
+            <img src="https://i.pinimg.com/originals/5d/17/ea/5d17eae8b4859a18ebaf36bbdecd2001.jpg" alt="proto" />
+            <img src="https://i.pinimg.com/originals/05/78/9e/05789e25f8f6a5ac81ac9531c0b17fc2.jpg" alt="prototipo" />
+            <img src="https://i.pinimg.com/originals/01/80/92/0180923dbfc73964d2bbe3942e0bf69c.jpg" alt="proto" />
             <h2>HERRAMIENTAS</h2>
             <h3>Experiencia en la redaccion de historias de usuario</h3>
             <p>La experiencia para esta situacion fue retraolimentativa, al estar en un entorno agil las herramientas estan en nuestra disposicion siendo la unica complicacion el ver si las historias que iba planteando cumplian con los criterios de aceptacion En general consideraria que fue un experiencia satisfactoria.</p>
@@ -48,8 +47,8 @@ export const CrearHistoriaUsuario3 = () => {
             {/* <p>Falta JOSE</p> */}
 
             <h3>Criterio de aceptacion de historias del Usuario</h3>
-            <img src="https://i.pinimg.com/originals/e2/e5/fb/e2e5fb18f261a63e57fa86a156422c93.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/4a/6c/fd/4a6cfd97d0071710f89725fb8e2690c7.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/ce/3c/53/ce3c53c885ce42dd3d64b2ada991e7fe.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/82/0c/c9/820cc98436b334e7c6419d38e489eb1f.jpg" alt="jose" />
 
             <BotonAtras direccion={"planificacionestimacion3"} /> 
 

@@ -14,7 +14,7 @@ export const RefinamientoDelBacklogPriorizado3 = () => {
             <SliderCard elemtos={"as"} />
 
             <h3>Backlog Priorizado del Producto</h3>
-            <img src="https://i.pinimg.com/originals/6a/4b/15/6a4b150aa0863ac62f007564c661e41d.jpg" alt="todos" />
+            <img src="https://i.pinimg.com/originals/5e/20/66/5e206689fff2ab18eee0421ab5f6fc27.jpg" alt="todos" />
 
 
             <h2>HERRAMIENTAS</h2>
@@ -29,7 +29,7 @@ export const RefinamientoDelBacklogPriorizado3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Backlog Priorizado del Producto actualizado</h3>
-            <img src="https://i.pinimg.com/originals/21/34/09/21340926ca8503d3090bd3e81815b5b1.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/6c/bd/51/6cbd514d43a1d3cde8082ccae799c90a.jpg" alt="jose" />
             <BotonAtras direccion={"implementacion3"} /> 
 
         </div>

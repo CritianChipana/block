@@ -28,8 +28,8 @@ export const EstimarHistoriaUsuario3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Historias del usuario estimadas</h3>
-            <img src="https://i.pinimg.com/originals/ed/f0/d2/edf0d2b0ee6f52a738463c5d4d8a35d4.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/e3/dc/5c/e3dc5c737959d451ab5c6918908a25fc.jpg" alt="jose" />
+            <img src="https://i.pinimg.com/originals/f8/a7/08/f8a708799ae63e1eccedb40a98a53a32.jpg" alt="jose" />
+            {/* <img src="https://i.pinimg.com/originals/e3/dc/5c/e3dc5c737959d451ab5c6918908a25fc.jpg" alt="jose" /> */}
             <BotonAtras direccion={"planificacionestimacion3"} /> 
 
         </div>

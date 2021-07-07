@@ -20,7 +20,7 @@ export const RealizarDailyStandup3 = () => {
 
 
             <h3>Sprint Burndown Chart</h3>
-            <img src="https://i.pinimg.com/originals/c2/c5/a8/c2c5a8b33dbeb5d3e4b03ee7822f4f1f.jpg" alt="jean" />
+            <img src="https://i.pinimg.com/originals/5a/26/51/5a26519ea6daa2f10f39e344cf3a3e02.jpg" alt="jean" />
 
 
             <h3>Impediment Log</h3>
@@ -42,11 +42,11 @@ export const RealizarDailyStandup3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Sprint Burndown Chart Actualizado</h3>
-            <img src="https://i.pinimg.com/originals/f0/c3/ac/f0c3ac9a049c5995fa3b6efb5bada910.jpg" alt="jean" />
+            {/* <img src="https://i.pinimg.com/originals/08/17/29/0817298af60af20043b5631c2147a0b4.jpg" alt="jean" /> */}
+            <img src="https://i.pinimg.com/originals/3c/c5/72/3cc5721b1e5899dcb1cc5e1213f275d0.jpg" alt="jean" />
             {/* <img className="grande-sprint1" src="https://i.pinimg.com/originals/14/bf/74/14bf7481f7a357fda05cdaa973938c71.png" alt="jean" /> */}
             {/* <img className="chicos-sprint1" src="https://i.pinimg.com/originals/63/b0/8c/63b08c38524d5f9758d14e796ebd5f98.jpg" alt="jean" /> */}
-            <img src="https://i.pinimg.com/originals/ff/48/29/ff482931919c948ea52601e1043107bb.jpg" alt="jean" />
-            <img src="https://i.pinimg.com/originals/93/ee/60/93ee6093370b495cbfe93f613f362d2c.jpg" alt="jean" />
+            <img src="https://i.pinimg.com/originals/85/7b/35/857b351bef34cb6363ce268c6b84ba73.jpg" alt="jean" />
             
             <h3>Impediment Log actualizado</h3>
             <img src="https://i.pinimg.com/originals/3a/87/79/3a87799429ea3f4742d47c8b3f82f180.jpg" alt="red" />

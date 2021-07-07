@@ -17,10 +17,10 @@ export const ComprometerHistoriaUsuario3 = () => {
             <SliderCard elemtos={"as"} />
             
             <h3>Historias del usuario estimadas</h3>
-            <img src="https://i.pinimg.com/originals/ed/f0/d2/edf0d2b0ee6f52a738463c5d4d8a35d4.jpg" alt="jose" />
-            <img src="https://i.pinimg.com/originals/e3/dc/5c/e3dc5c737959d451ab5c6918908a25fc.jpg" alt="jose" />   
+            <img src="https://i.pinimg.com/originals/f8/a7/08/f8a708799ae63e1eccedb40a98a53a32.jpg" alt="jose" />
+            {/* <img src="https://i.pinimg.com/originals/e3/dc/5c/e3dc5c737959d451ab5c6918908a25fc.jpg" alt="jose" />    */}
             <h3>Duracion del sprint</h3>
-            <img src="https://i.pinimg.com/originals/f7/ad/69/f7ad694533ff8a3c215518465c903b6c.jpg" alt="duracion del sprint" />
+            <img src="https://i.pinimg.com/originals/69/d7/24/69d724a52db43ff3e742198629be3104.jpg" alt="duracion del sprint" />
             {/* <Silder  elemtos={ calendario }/> */}
 
 
@@ -30,7 +30,7 @@ export const ComprometerHistoriaUsuario3 = () => {
             <h2>SALIDAS</h2>
             <h3>Historias de usuario comprometidas</h3>
             <p>De acuerdo a la cantidad necesaria de trabajo que puede ofrecer el equipo de desarrollo, se le preguntó al equipo de desarrollo la cantidad de trabajo que puedes realizar, siendo el puntaje estimado de 115 puntos que puedes llegar a avanzar. Es así como seleccionamos las HU para este primer Sprint.</p>
-            <img src="https://i.pinimg.com/originals/0a/32/31/0a3231c0ac996315cfcf1645f6a16775.jpg" alt="nose cualpa  mia" />
+            <img src="https://i.pinimg.com/originals/6a/e1/3a/6ae13a3dbf5c2916acad13630ff5a3a9.jpg" alt="nose cualpa  mia" />
         <BotonAtras direccion={"planificacionestimacion3"} /> 
 
         </div>

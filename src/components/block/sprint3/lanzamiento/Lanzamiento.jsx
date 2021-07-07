@@ -12,7 +12,7 @@ export const Lanzamiento3 = () => {
 
     return (
         <>
-            <div>
+            {/* <div>
                 <canvas id="myChart" width="400" height="400"></canvas>
 
             </div>
@@ -34,7 +34,7 @@ export const Lanzamiento3 = () => {
                     }
                 </div>
                 <BotonAtras direccion={"sprint2"} /> 
-            </div>
+            </div> */}
         </>
     )
 }

@@ -14,13 +14,11 @@ export const CrearSprintBackLog3 = () => {
             <h3>Equipo Principal de Scrum</h3>
             <SliderCard elemtos={"as"} />
             <h3>Effort Estimated Task List</h3>
-            <img src="https://i.pinimg.com/originals/b3/9a/40/b39a40bf9a5c61b6e75915319e646569.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/32/a3/80/32a3804045163cf67321a773c23cf10c.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/fd/eb/cb/fdebcbb2bc52863cc0f33d59a4203622.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/b6/f0/96/b6f096fad9abef3eee82d78d2c57ed8e.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/d0/3a/5f/d03a5fcbf11af0702cefe91b62b77dcc.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/62/48/23/624823be2b5b1a4de0414874f76e3717.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/fa/e3/b1/fae3b1d1505a53f38722813a56e0b3a4.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/32/39/39/323939e8263cec8c99d087005ff41e10.jpg" alt="alvaro" />
             <h3>Duracion del sprint</h3>
-            <img src="https://i.pinimg.com/originals/f7/ad/69/f7ad694533ff8a3c215518465c903b6c.jpg" alt="duracion del sprint" />
+            <img src="https://i.pinimg.com/originals/69/d7/24/69d724a52db43ff3e742198629be3104.jpg" alt="duracion del sprint" />
 
             {/* <Silder  elemtos={ calendario }/> */}
             
@@ -32,9 +30,9 @@ export const CrearSprintBackLog3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Sprint Backlog</h3>
-            <img src="https://i.pinimg.com/originals/21/34/09/21340926ca8503d3090bd3e81815b5b1.jpg" alt="Hola mmgvzo" />
+            <img src="https://i.pinimg.com/originals/f8/a7/08/f8a708799ae63e1eccedb40a98a53a32.jpg" alt="Hola mmgvzo" />
             <h3>Sprint Burndown Chart</h3>
-            <img src="https://i.pinimg.com/originals/c2/c5/a8/c2c5a8b33dbeb5d3e4b03ee7822f4f1f.jpg" alt="jean" />
+            <img src="https://i.pinimg.com/originals/5a/26/51/5a26519ea6daa2f10f39e344cf3a3e02.jpg" alt="jean" />
         <BotonAtras direccion={"planificacionestimacion3"} /> 
 
         </div>
