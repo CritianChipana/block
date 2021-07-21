@@ -19,10 +19,10 @@ export const EnvioEntregables3 = () => {
             <Carta url={"https://i.pinimg.com/564x/3c/9b/d3/3c9bd38f6241963c91f18858b1f39fb8.jpg"} nombre={"ZEBALLOS CACERES PIERO"} descripcion={"Debido a que es la persona interesada en la realización del proyecto. ZEBALLOS CACERES PIERO será nuestro STAKEHOLDER. Él nos hará llegar los requerimientos de la empresa a través de nuestra Product Owner."} />
 
             <h3>Entregables Aceptados</h3>
-            <img src="https://i.pinimg.com/originals/6f/18/a4/6f18a46ce001f4dbab3bdab6a4f56a1d.jpg" alt="Jose" />
+            <img src="https://i.pinimg.com/originals/2c/bc/1d/2cbc1d1399e0d5176fe8fa4d3250326d.jpg" alt="Jose" />
 
             <h3>Cronograma de planificacion del lanzamiento</h3>
-            <img src="https://i.pinimg.com/originals/f7/ad/69/f7ad694533ff8a3c215518465c903b6c.jpg" alt="nose" />
+            <img src="https://i.pinimg.com/originals/69/d7/24/69d724a52db43ff3e742198629be3104.jpg" alt="nose" />
             
             {/* <h2>HERRAMIENTAS</h2>
             <h3>Metodos de desplazamiento organizacional</h3>
@@ -30,8 +30,8 @@ export const EnvioEntregables3 = () => {
 
             <h2>SALIDAS</h2>
             <h3>Acuerdo de entregables funcionales</h3>
-            <img src="https://i.pinimg.com/originals/13/9e/16/139e169ee023a563a04767b0efb94ef3.jpg" alt="alvaro" />
-            <img src="https://i.pinimg.com/originals/00/c2/6d/00c26d854ac1960f5471f637740f9366.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/5b/fb/09/5bfb099901e42ddab767185d73ced168.jpg" alt="alvaro" />
+            <img src="https://i.pinimg.com/originals/d9/8b/86/d98b86d483f7fa0373219fd9eaa8714d.jpg" alt="alvaro" />
             <BotonAtras direccion={"lanzamiento3"} /> 
 
         </div>

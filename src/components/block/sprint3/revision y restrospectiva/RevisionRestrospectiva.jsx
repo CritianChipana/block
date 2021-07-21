@@ -11,7 +11,7 @@ export const RevisionRestrospectiva3 = () => {
     return (
 
         <>
-            {/* <h2 className="title-principal indicador">Revision y Retrospectiva del sprint <strong>II</strong> </h2>
+            <h2 className="title-principal indicador">Revision y Retrospectiva del sprint <strong>III</strong> </h2>
 
             <div className="option-sprint-content">
             <BotonAtras direccion={"sprint3"} /> 
@@ -24,7 +24,7 @@ export const RevisionRestrospectiva3 = () => {
                 }
             </div>
             <BotonAtras direccion={"sprint3"} /> 
-            </div> */}
+            </div>
         </>
     )
 }

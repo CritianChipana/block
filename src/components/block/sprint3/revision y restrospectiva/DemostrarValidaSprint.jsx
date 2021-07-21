@@ -18,7 +18,7 @@ export const DemostrarValidaSprint3 = () => {
         <p>tenemos</p> */}
 
         <h3>Sprint Backlog</h3>
-        <img src="https://i.pinimg.com/originals/21/34/09/21340926ca8503d3090bd3e81815b5b1.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/4c/97/fa/4c97fa0fd0e133e08ff7b34e956094b1.jpg" alt="jose" />
 
         <h3>Criterios de terminado</h3>
         <ul>
@@ -31,8 +31,8 @@ export const DemostrarValidaSprint3 = () => {
             </ul>
 
         <h3>Criterio de aceptacion de las historias del usuario</h3>
-        <img src="https://i.pinimg.com/originals/e2/e5/fb/e2e5fb18f261a63e57fa86a156422c93.jpg" alt="jose" />
-        <img src="https://i.pinimg.com/originals/4a/6c/fd/4a6cfd97d0071710f89725fb8e2690c7.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/ce/3c/53/ce3c53c885ce42dd3d64b2ada991e7fe.jpg" alt="jose" />
+        <img src="https://i.pinimg.com/originals/82/0c/c9/820cc98436b334e7c6419d38e489eb1f.jpg" alt="jose" />
 
         <h2>HERRAMIENTAS</h2>
         <h3>Reunion de revision del Sprint</h3>
@@ -40,10 +40,10 @@ export const DemostrarValidaSprint3 = () => {
 
         <h2>SALIDAS</h2>
         <h3>Entregables aceptados</h3>
-        <img src="https://i.pinimg.com/originals/6f/18/a4/6f18a46ce001f4dbab3bdab6a4f56a1d.jpg" alt="Jose" />
+        <img src="https://i.pinimg.com/originals/2c/bc/1d/2cbc1d1399e0d5176fe8fa4d3250326d.jpg" alt="Jose" />
 
         <h3>Riesgos actualizados</h3>
-        <img src="https://i.pinimg.com/originals/7e/99/3c/7e993cd612c3b3c0bf5aa416817e586b.jpg" alt="jean" />
+        <img src="https://i.pinimg.com/originals/a4/cd/c5/a4cdc5b9be4848f7d964d040310496b7.jpg" alt="jean" />
         
         <BotonAtras direccion={"revision3"} /> 
 

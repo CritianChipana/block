@@ -15,12 +15,12 @@ export const Lanzamiento3 = () => {
             {/* <div>
                 <canvas id="myChart" width="400" height="400"></canvas>
 
-            </div>
+            </div> */}
             
 
 
 
-            <h2 className="title-principal indicador">Lanzamineto del sprint <strong>II</strong> </h2>
+            <h2 className="title-principal indicador">Lanzamineto del sprint <strong>III</strong> </h2>
 
 
             <div className="option-sprint-content">
@@ -34,7 +34,7 @@ export const Lanzamiento3 = () => {
                     }
                 </div>
                 <BotonAtras direccion={"sprint2"} /> 
-            </div> */}
+            </div>
         </>
     )
 }
