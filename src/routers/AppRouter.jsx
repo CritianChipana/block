@@ -92,7 +92,7 @@ export const AppRouter = () => {
                     <Route exact path="/block/sprint1" component={ Sprint1 } />
                     <Route exact path="/block/sprint2" component={ Sprint2 } />
                     <Route exact path="/block/sprint3" component={ Sprint3 } />
-                    <Route exact path="/block/sprint4" component={ Sprint4 } />
+
 
                     <Route exact path="/block/vision" component={ VisionDelProyecto } />
                     <Route exact path="/block/scrummaster" component={ IdentificarScrumMaster } />
@@ -163,8 +163,9 @@ export const AppRouter = () => {
         <Route exact path="/block/lanzamiento3" component={ Lanzamiento3 } />
         <Route exact path="/block/envioentregables3" component={ EnvioEntregables3 } />
 
-
-
+        {/* ***************************** RETROSPECTIVA DEL PROYECTO */}
+        
+        <Route exact path="/block/sprint4" component={ Sprint4 } />
 
                     <Redirect  to="/block"/>
                 </Switch>

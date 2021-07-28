@@ -50,7 +50,7 @@ export const NavBar = () => {
                         className="nav-link nav-list-option link-transicion"
                         to="/block/sprint4"
                     >
-                        SPRINT IV
+                        RETROSPECTIVA DEL PROYECTO
                     </Link>
 
                 </div>
