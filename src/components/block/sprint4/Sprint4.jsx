@@ -8,7 +8,7 @@ export const Sprint4 = () => {
         <div  className="contenedor-desarrollo-epicas">
 
 
-            <h2 className="title-principal" >ENVIAR ENTREGABLES</h2>
+            <h2 className="title-principal" >RETROSPECTIVA DEL PROYECTO</h2>
 
             <h2>ENTRADAS</h2>
             <h3>Equipo Principal de Scrum</h3>
